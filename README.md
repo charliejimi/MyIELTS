@@ -9,10 +9,10 @@
 |------------|-----------|---------|---------|----------|---------------|--------------------------------|
 | 2025-03-01 | XX       | XX     | XX     | XX      | XX          | XXXXXXXXXXXXXX|
 
-# IELTS须知
+# 💡IELTS须知
 https://ieltsregistration.britishcouncil.org/  BC机考/笔试考点预约报名链接，我选择a类，机考，考点：EIKEN Osaka IELTS Test Centre Dojima Avanza
 
-# 日常流程&资料
+# ⏱日常流程&资料
 
 ## 阅读
 
@@ -44,7 +44,7 @@ https://ieltsregistration.britishcouncil.org/  BC机考/笔试考点预约报名
 
 ☀日常 雅思哥APP Part1+2+3 
 
-# 笔记
+# 📕笔记
 
 ## Reading
 
@@ -56,9 +56,9 @@ Task Response(TR), Cohesion & Coherence(CC), Lexical Resource(LR), Grammatical R
 
 ## Writing
 
-# Speaking
+## Speaking
 
-# Prompt
+# 👾Prompt
 
 感谢：https://github.com/BaixuanLi/IELTS-Prompt?tab=readme-ov-file
 
