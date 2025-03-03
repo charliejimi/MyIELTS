@@ -1,5 +1,5 @@
 
-# 本人情况
+# 本人情况（测试用例）
 ## INPUT
 基础：四级560 六级480
 投入时间：3.3-4.10 每日4h-5h
@@ -40,14 +40,16 @@ https://ieltsregistration.britishcouncil.org/  BC机考/笔试考点预约报名
 
 日常 雅思哥APP Part1+2+3 
 
-# Reading
+# 笔记
+
+## Reading
 
 ## Criteria
 
 Task Response(TR), Cohesion & Coherence(CC), Lexical Resource(LR), Grammatical Range and Accuracy(GRA) The four individual scores are added together and then divided by four to give an average. Ref:[https://ielts-academic.com/2016/01/07/ielts-writing-scores/](https://ielts-academic.com/2016/01/07/ielts-writing-scores/)
 
-# Listening
+## Listening
 
-# Writing
+## Writing
 
 # Speaking
