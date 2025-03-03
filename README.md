@@ -44,7 +44,7 @@ https://ieltsregistration.britishcouncil.org/  BC机考/笔试考点预约报名
 
 ## Criteria
 
-Task Response(TR), Cohesion & Coherence(CC), Lexical Resource(LR), Grammatical Range and Accuracy(GRA) The four individual scores are added together and then divided by four to give an average ref:[https://ielts-academic.com/2016/01/07/ielts-writing-scores/](https://ielts-academic.com/2016/01/07/ielts-writing-scores/)
+Task Response(TR), Cohesion & Coherence(CC), Lexical Resource(LR), Grammatical Range and Accuracy(GRA) The four individual scores are added together and then divided by four to give an average. Ref:[https://ielts-academic.com/2016/01/07/ielts-writing-scores/](https://ielts-academic.com/2016/01/07/ielts-writing-scores/)
 
 # Listening
 
