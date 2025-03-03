@@ -4,7 +4,7 @@
 |------------|-----------|---------|---------|----------|---------------|--------------------------------|
 | 2025-03-01 | XX       | XX     | XX     | XX      | XX          | XXXXXXXXXXXXXX|
 
-# IELTS
+# IELTS须知
 https://ieltsregistration.britishcouncil.org/  BC机考/笔试考点预约报名，我选择机考，考点：EIKEN Osaka IELTS Test Centre Dojima Avanza
 
 # 日常流程&资料
