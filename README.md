@@ -1,11 +1,11 @@
+
+
 | Exam Date  | Listening | Reading | Writing | Speaking | Overall Score | Comments                       |
 |------------|-----------|---------|---------|----------|---------------|--------------------------------|
-| 2025-03-01 | 7.0       | 7.5     | 6.5     | 8.0      | 7.3          | Need to improve writing skills|
-| 2025-04-15 | 7.5       | 8.0     | 7.0     | 7.5      | 7.6          | Good speaking, improved reading|
-| 2025-06-01 | 8.0       | 8.5     | 7.5     | 8.0      | 8.0          | Overall good performance, writing still needs work|
-| 2025-08-15 | 8.5       | 8.5     | 8.0     | 8.5      | 8.4          | Balanced improvement, excellent speaking|
+| 2025-03-01 | XX       | XX     | XX     | XX      | XX          | XXXXXXXXXXXXXX|
 
 # IELTS
+https://ieltsregistration.britishcouncil.org/  BC机考/笔试考点预约报名，我选择机考，考点：EIKEN Osaka IELTS Test Centre Dojima Avanza
 
 # 日常流程&资料
 
