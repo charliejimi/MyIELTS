@@ -58,7 +58,7 @@ Task Response(TR), Cohesion & Coherence(CC), Lexical Resource(LR), Grammatical R
 
 # Prompt
 
-https://github.com/BaixuanLi/IELTS-Prompt?tab=readme-ov-file
+来自：https://github.com/BaixuanLi/IELTS-Prompt?tab=readme-ov-file
 
 ```markdown
 #### Role Prompt: Who Am I?
