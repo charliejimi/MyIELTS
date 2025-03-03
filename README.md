@@ -1,8 +1,10 @@
 
 # 本人情况（测试用例）
 ## INPUT
-基础：四级560 六级480
-投入时间：3.3-4.10 每日4h-5h
+基础：四级半裸考560 六级裸考480
+
+IELTS投入时间：3.3-4.10 每日4h-5h
+
 目标 Overall > 6.5 各部分 > 5.5
 ## OUTPUT
 | Exam Date  | Listening | Reading | Writing | Speaking | Overall | Comments                       |
