@@ -9,7 +9,7 @@ IELTS投入时间：3.3-4.15 每日4h-5h
 ## OUTPUT
 | Exam Date  | Listening | Reading | Writing | Speaking | Overall | Comments                       |
 |------------|-----------|---------|---------|----------|---------------|--------------------------------|
-| 2025-03-01 | XX       | XX     | XX     | XX      | XX          | XXXXXXXXXXXXXX|
+| 2025-03-01 | XX       | 7     |  XX    | XX      | N/A          | Cambridge IELTS 19 Academic Reading Test 4|
 
 # 💡IELTS须知
 https://ieltsregistration.britishcouncil.org/  BC机考/笔试考点预约报名链接，我选择a类，机考，考点：EIKEN Osaka IELTS Test Centre Dojima Avanza
