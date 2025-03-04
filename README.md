@@ -46,6 +46,8 @@ IELTS投入时间：3.3-4.20 每日4h-5h
 
 ✍作文批改 直接用openai/gemini/kimi/deepseek/notion都可，prompt在最下面
 
+小作文史上最全解析——数据图表类 [https://zhuanlan.zhihu.com/p/444388256](https://zhuanlan.zhihu.com/p/444388256)
+
 雅思小作文：线状图/柱状图/饼状图/表格题/流程图/地图题模板 [https://zhuanlan.zhihu.com/p/248199735](https://zhuanlan.zhihu.com/p/248199735)
 
 ## 口语
@@ -56,9 +58,7 @@ IELTS投入时间：3.3-4.20 每日4h-5h
 
 ## Reading
 
-## Criteria
-
-Task Response(TR), Cohesion & Coherence(CC), Lexical Resource(LR), Grammatical Range and Accuracy(GRA) The four individual scores are added together and then divided by four to give an average. Ref:[https://ielts-academic.com/2016/01/07/ielts-writing-scores/](https://ielts-academic.com/2016/01/07/ielts-writing-scores/)
+Criteria: Task Response(TR), Cohesion & Coherence(CC), Lexical Resource(LR), Grammatical Range and Accuracy(GRA) The four individual scores are added together and then divided by four to give an average. Ref:[https://ielts-academic.com/2016/01/07/ielts-writing-scores/](https://ielts-academic.com/2016/01/07/ielts-writing-scores/)
 
 ## Listening
 
@@ -125,4 +125,23 @@ Candidates must have concerns regarding the improvement of their IELTS writing s
 
 I need to provide improvement suggestions for users according to this.
 ```
-
+# Scoring（A:Academic or G:General）
+| Number of correct Listening answers | IELTS band score | Number of correct Reading answers (A) | IELTS band score | Number of correct Reading answers (G) | IELTS band score |
+|---|---|---|---|---|---|
+| 39-40 | 9.0 | 39-40 | 9.0 | 40 | 9.0 |
+| 37-38 | 8.5 | 37-38 | 8.5 | 39 | 8.5 |
+| 35-36 | 8.0 | 35-36 | 8.0 | 38 | 8.0 |
+| 33-34 | 7.5 | 33-34 | 7.5 | 36-37 | 7.5 |
+| 30-32 | 7.0 | 30-32 | 7.0 | 34-35 | 7.0 |
+| 27-29 | 6.5 | 27-29 | 6.5 | 32-33 | 6.5 |
+| 23-26 | 6.0 | 23-26 | 6.0 | 30-31 | 6.0 |
+| 20-22 | 5.5 | 20-22 | 5.5 | 26-29 | 5.5 |
+| 16-19 | 5.0 | 16-19 | 5.0 | 23-25 | 5.0 |
+| 13-15 | 4.5 | 13-15 | 4.5 | 19-22 | 4.5 |
+| 10-12 | 4.0 | 10-12 | 4.0 | 15-18 | 4.0 |
+| 6-9 | 3.5 | 6-9 | 3.5 | 12-14 | 3.5 |
+| 4-5 | 3.0 | 4-5 | 3.0 | 8-11 | 3.0 |
+| 3 | 2.5 | 3 | 2.5 | 5-7 | 2.5 |
+| 2 | 2.0 | 2 | 2.0 | 2-4 | 2.0 |
+| 1 | 1.0 | 1 | 1.0 | 1 | 1.0 |
+| absent | 0.0 | absent | 0.0 | absent | 0.0 |
