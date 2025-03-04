@@ -13,7 +13,7 @@ IELTS投入时间：3.3-4.20 每日4h-5h
 | **2025-04-25**| **XX**       | **XX**     |  **XX**    | **XX**      | **XX**          | Real Test |
 
 # 💡IELTS须知
-https://ieltsregistration.britishcouncil.org/  BC机考/笔试考点预约报名链接，我选择a类，机考，考点：EIKEN Osaka IELTS Test Centre Dojima Avanza
+ [机考/笔试考点预约报名链接(British Council)](https://ieltsregistration.britishcouncil.org/ )，我选择a类，机考，考点：EIKEN Osaka IELTS Test Centre Dojima Avanza
 
 # ⏱日常流程&资料
 
