@@ -13,7 +13,7 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日4h-5h
 | 2025-03-04 | XX       | 7     |  XX    | XX      | N/A          | Cambridge IELTS 19 Academic Reading Test 4|
 | **2025-04-25**| **XX**       | **XX**     |  **XX**    | **XX**      | **XX**          | Real Test |
 
-# 💡IELTS须知
+# 💡IELTS备考须知
 
 [海外求学工科生的经验之谈]( https://zhuanlan.zhihu.com/p/101041748)， 有关工科生备考雅思的经验和思考
 
