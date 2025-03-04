@@ -125,7 +125,7 @@ Candidates must have concerns regarding the improvement of their IELTS writing s
 
 I need to provide improvement suggestions for users according to this.
 ```
-# Scoring
+# Scoring（A:Academic or G:General）
 | Number of correct Listening answers | IELTS band score | Number of correct Reading answers (A) | IELTS band score | Number of correct Reading answers (G) | IELTS band score |
 |---|---|---|---|---|---|
 | 39-40 | 9.0 | 39-40 | 9.0 | 40 | 9.0 |
