@@ -3,7 +3,7 @@
 ## INPUT
 基础：四级半裸考560 六级裸考480
 
-IELTS投入时间：3.3-4.10 每日4h-5h
+IELTS投入时间：3.3-4.15 每日4h-5h
 
 目标 Overall > 6.5 各部分 > 5.5
 ## OUTPUT
@@ -20,7 +20,7 @@ https://ieltsregistration.britishcouncil.org/  BC机考/笔试考点预约报名
 
 刘洪波雅思阅读 [https://www.bilibili.com/video/BV1c54y187SH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1c54y187SH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8)
 
-☀日常 剑雅真题阅读刷 9-16的阅读 [https://top.zhan.com/ielts/read/cambridge.html](https://top.zhan.com/ielts/read/cambridge.html)
+☀日常 剑雅真题 C14-C19 的阅读 [https://engnovate.com/ielts-listening-tests/](https://engnovate.com/ielts-listening-tests/)
 
 阅读考点词真经538 [《剑桥雅思阅读考点词真经538（机考笔试综合版）》.pdf](538.pdf)
 
@@ -30,7 +30,7 @@ https://ieltsregistration.britishcouncil.org/  BC机考/笔试考点预约报名
 
 ☀日常 对话听力 [https://www.bilibili.com/video/BV1rq4CeDE1h/?spm_id_from=333.1387.favlist.content.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1rq4CeDE1h/?spm_id_from=333.1387.favlist.content.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8)
 
-☀日常 C14-C19 https://engnovate.com/ielts-listening-tests/
+☀日常 剑雅真题 C14-C19 的听力 https://engnovate.com/ielts-listening-tests/
 
 听力179热点 [https://hefengxian.github.io/my-ielts/#/listening/keyword](https://hefengxian.github.io/my-ielts/#/listening/keyword)
 
