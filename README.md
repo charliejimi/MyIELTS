@@ -46,6 +46,8 @@ IELTS投入时间：3.3-4.20 每日4h-5h
 
 ✍作文批改 直接用openai/gemini/kimi/deepseek/notion都可，prompt在最下面
 
+小作文史上最全解析——数据图表类 [https://zhuanlan.zhihu.com/p/444388256](https://zhuanlan.zhihu.com/p/444388256)
+
 雅思小作文：线状图/柱状图/饼状图/表格题/流程图/地图题模板 [https://zhuanlan.zhihu.com/p/248199735](https://zhuanlan.zhihu.com/p/248199735)
 
 ## 口语
