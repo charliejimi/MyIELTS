@@ -13,7 +13,10 @@ IELTS投入时间：3.3-4.20 每日4h-5h
 | **2025-04-25**| **XX**       | **XX**     |  **XX**    | **XX**      | **XX**          | Real Test |
 
 # 💡IELTS须知
- [机考/笔试考点报名预约链接(British Council)](https://ieltsregistration.britishcouncil.org )，中国大陆考点会跳转新页面，我选择a类，机考，考点：EIKEN Osaka IELTS Test Centre Dojima Avanza
+
+[海外求学工科生的经验之谈]( https://zhuanlan.zhihu.com/p/101041748)， 有关工科生备考雅思的经验和思考
+
+[机考/笔试考点报名预约链接(British Council)](https://ieltsregistration.britishcouncil.org )，中国大陆考点会跳转新页面，我选择a类，机考，考点：EIKEN Osaka IELTS Test Centre Dojima Avanza
 
 # ⏱日常流程&资料
 
@@ -47,7 +50,7 @@ IELTS投入时间：3.3-4.20 每日4h-5h
 
 ## 口语
 
-☀日常(0.5h) 雅思哥APP Part1+2+3 
+☀日常(0.5h) 雅思哥APP Part1+2+3 （每年的1、5、9三个月会替换部分Topic，所谓换题月，仅在口语部分参考机经）
 
 # 📕笔记
 
