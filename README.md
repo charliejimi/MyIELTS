@@ -1,5 +1,5 @@
 
-# 本人情况（测试用例）
+# ✍本人情况（测试用例）
 ## INPUT
 基础：四级半裸考560 六级裸考480
 
@@ -44,7 +44,7 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日4h-5h
 
 杜仕明写作课 [https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2](https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2)
 
-✍作文批改 直接用openai/gemini/kimi/deepseek/notion都可，prompt在最下面
+作文批改 直接用openai/gemini/kimi/deepseek/notion都可，prompt在最下面
 
 小作文史上最全解析——数据图表类 [https://zhuanlan.zhihu.com/p/444388256](https://zhuanlan.zhihu.com/p/444388256)
 
