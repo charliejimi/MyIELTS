@@ -9,7 +9,7 @@ IELTS投入时间：3.3-4.20 每日4h-5h
 ## OUTPUT
 | Exam Date  | Listening | Reading | Writing | Speaking | Overall | Comments                       |
 |------------|-----------|---------|---------|----------|---------------|--------------------------------|
-| 2025-03-01 | XX       | 7     |  XX    | XX      | N/A          | Cambridge IELTS 19 Academic Reading Test 4|
+| 2025-03-04 | XX       | 7     |  XX    | XX      | N/A          | Cambridge IELTS 19 Academic Reading Test 4|
 | **2025-04-25**| **XX**       | **XX**     |  **XX**    | **XX**      | **XX**          | Real Test |
 
 # 💡IELTS须知
