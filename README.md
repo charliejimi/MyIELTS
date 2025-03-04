@@ -20,7 +20,7 @@ https://ieltsregistration.britishcouncil.org/  BC机考/笔试考点预约报名
 
 刘洪波雅思阅读 [https://www.bilibili.com/video/BV1c54y187SH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1c54y187SH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8)
 
-☀日常 剑雅真题 C14-C19 的阅读 [https://engnovate.com/ielts-listening-tests/](https://engnovate.com/ielts-listening-tests/)
+☀日常(1h) 剑雅真题 C14-C19 的阅读 [https://engnovate.com/ielts-listening-tests/](https://engnovate.com/ielts-listening-tests/) 
 
 阅读考点词真经538 [《剑桥雅思阅读考点词真经538（机考笔试综合版）》.pdf](538.pdf)
 
@@ -28,15 +28,15 @@ https://ieltsregistration.britishcouncil.org/  BC机考/笔试考点预约报名
 
 何琼雅思听力 [https://www.bilibili.com/video/BV1a2r8YEEnH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1a2r8YEEnH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8)
 
-☀日常 对话听力 [https://www.bilibili.com/video/BV1rq4CeDE1h/?spm_id_from=333.1387.favlist.content.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1rq4CeDE1h/?spm_id_from=333.1387.favlist.content.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8)
+对话听力 [https://www.bilibili.com/video/BV1rq4CeDE1h/?spm_id_from=333.1387.favlist.content.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1rq4CeDE1h/?spm_id_from=333.1387.favlist.content.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8)
 
-☀日常 剑雅真题 C14-C19 的听力 https://engnovate.com/ielts-listening-tests/
+☀日常(1h) 剑雅真题 C14-C19 的听力 https://engnovate.com/ielts-listening-tests/
 
 听力179热点 [https://hefengxian.github.io/my-ielts/#/listening/keyword](https://hefengxian.github.io/my-ielts/#/listening/keyword)
 
 ## 写作
 
-☀日常 Simon写作例题对照写+记录 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=55](https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=55)
+☀日常(0.5h) Simon写作例题对照写+记录 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=55](https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=55)
 
 杜仕明写作课 [https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2](https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2)
 
@@ -44,7 +44,7 @@ https://ieltsregistration.britishcouncil.org/  BC机考/笔试考点预约报名
 
 ## 口语
 
-☀日常 雅思哥APP Part1+2+3 
+☀日常(0.5h) 雅思哥APP Part1+2+3 
 
 # 📕笔记
 
