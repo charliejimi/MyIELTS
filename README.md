@@ -104,7 +104,7 @@ Grammatical range and accuracy：
 
 # 👾Prompt
 
-感谢：https://github.com/BaixuanLi/IELTS-Prompt?tab=readme-ov-file
+引用自：https://github.com/BaixuanLi/IELTS-Prompt
 
 ```markdown
 #### Role Prompt: Who Am I?
