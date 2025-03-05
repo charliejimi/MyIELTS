@@ -13,7 +13,7 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日4h-5h
 ## OUTPUT
 | Exam Date  | Listening | Reading | Writing | Speaking | Overall | Comments                       |
 |------------|-----------|---------|---------|----------|---------------|--------------------------------|
-| 2025-03-04 | XX       | 7.0     |  6.0(6.0,6.0)    | XX      | N/A          | Cambridge IELTS 19 Academic Reading Test 4 阅读：小题对应的文章内容的顺序一样，mark出题目对应原文位置，看题目词再回原文继续看下去；先打包所有matching选项的关键词，然后边做其它的细节题，边看matching里有没有匹配的答案句，有就直接选，没有就先放一边；雅思官方对于Not Given的定义是：if there is **no information on this** or if it is **impossible to say what the writer thinks** about this 时间事态对象关系细节宽泛/限定程度全部一一匹配才可；作文似乎得日常背句式，词汇丰富度可以通过一些替换达成，既然是机考我感觉可以跟着grammarly插件学着怎么在2min内检查作文|
+| 2025-03-04 | XX       | 7.0     |  6.0(6.0,6.0)    | XX      | N/A          | Cambridge IELTS 19 Academic Reading Test 4 阅读：小题对应的文章内容的顺序一样，mark出题目对应原文位置，看题目词再回原文继续看下去；先打包所有matching选项的关键词，然后边做其它的细节题，边看matching里有没有匹配的答案句，有就直接选，没有就先放一边；雅思官方对于Not Given的定义是：if there is **no information on this** or if it is **impossible to say what the writer thinks** about this 时间事态对象关系细节宽泛/限定程度全部一一匹配才可；作文似乎得日常背句式，Lexical resource可以通过一些替换达成，Grammatical range and accuracy对我来说不做错就算万幸先别提range了，既然是机考我感觉可以跟着grammarly插件学着怎么在2min内检查作文|
 | **2025-04-25**| **XX**       | **XX**     |  **XX**    | **XX**      | **XX**          | Real Test |
 
 # 💡IELTS备考须知
@@ -76,7 +76,7 @@ Simon写作例题 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.7
 
 ## Reading
 
-Criteria: Task Response(TR), Cohesion & Coherence(CC), Lexical Resource(LR), Grammatical Range and Accuracy(GRA) The four individual scores are added together and then divided by four to give an average. Ref:[https://ielts-academic.com/2016/01/07/ielts-writing-scores/](https://ielts-academic.com/2016/01/07/ielts-writing-scores/)
+
 
 ## Listening
 
@@ -102,6 +102,8 @@ Grammatical range and accuracy：
 举个例子：
 
 比如大作文是6.5，小作文是6.0的话，最后得分是6.5 * 0.66+6.0 * 0.33=6.27，最终写作总分是6.5分。也就是说二者的权重比是1:2。两者都会按照9分制的评分表进行打分，再按照比例计算，最后得出成绩，因此需要尽可能让大作文实现6.5。
+
+Ref:[https://ielts-academic.com/2016/01/07/ielts-writing-scores/](https://ielts-academic.com/2016/01/07/ielts-writing-scores/)
 
 ## Speaking
 
