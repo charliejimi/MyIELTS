@@ -38,7 +38,7 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日4h-5h
 
 对话听力 [https://www.bilibili.com/video/BV1rq4CeDE1h/?spm_id_from=333.1387.favlist.content.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1rq4CeDE1h/?spm_id_from=333.1387.favlist.content.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8)
 
-☀日常(0.5h) 时政新闻,就算考完了也可以干饭顺便吃瓜 [https://space.bilibili.com/3537120656361663](https://space.bilibili.com/3537120656361663)
+☀日常(0.5h) 时政新闻,即使考完了也可以用来就饭吃 [https://space.bilibili.com/3537120656361663](https://space.bilibili.com/3537120656361663)
 
 ☀日常(1h) 剑雅真题 C14-C19 的听力 https://engnovate.com/ielts-listening-tests/
 
