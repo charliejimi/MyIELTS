@@ -13,7 +13,7 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日4h-5h
 ## OUTPUT
 | Exam Date  | Listening | Reading | Writing | Speaking | Overall | Comments                       |
 |------------|-----------|---------|---------|----------|---------------|--------------------------------|
-| 2025-03-04 | XX       | 7.0     |  6.0(6.0,6.0)    | XX      | N/A          | Cambridge IELTS 19 Academic Reading Test 4 阅读：小题对应的文章内容的顺序一样，mark出题目对应原文位置，看题目词再回原文继续看下去；先打包所有matching选项的关键词，然后边做其它的细节题，边看matching里有没有匹配的答案句，有就直接选，没有就先放一边；雅思官方对于Not Given的定义是：if there is **no information on this** or if it is **impossible to say what the writer thinks** about this 时间事态对象关系细节宽泛/限定程度全部一一匹配才可；作文似乎得日常背句式，Lexical resource可以通过一些替换达成，Grammatical range and accuracy对我来说不做错就算万幸先别提range了，既然是机考我感觉可以跟着grammarly插件学着怎么在2min内检查作文|
+| 2025-03-04 | XX       | 7.0     |  6.0(6.0,6.0)    | XX      | N/A          | Cambridge IELTS 19 Academic Reading Test 4 阅读：小题对应的文章内容的顺序一样，mark出题目对应原文位置，看题目词再回原文继续看下去；先打包所有matching选项的关键词，然后边做其它的细节题，边看matching里有没有匹配的答案句，有就直接选，没有就先放一边；雅思官方对于Not Given的定义是：if there is **no information on this** or if it is **impossible to say what the writer thinks** about this 时间事态对象关系细节宽泛/限定程度全部一一匹配才可；作文似乎得日常背句式，Lexical resource可以通过一些替换达成，Grammatical range and accuracy对我来说不做错就算万幸先别提range了，既然是机考随时可以修改，我感觉可以跟着grammarly插件学着怎么在2min内检查语句|
 | **2025-04-25**| **XX**       | **XX**     |  **XX**    | **XX**      | **XX**          | Real Test |
 
 # 💡IELTS备考须知
