@@ -51,7 +51,6 @@ Secondly，（10天结束，大小作文各5篇左右，这一步可以压缩）
 
 Thirdly，（10天准备），结合观点库梳理发散角度，准备4个角度，6个观点延伸方向，根据剑雅真题写，每天一大一小，可以找批改。
 
-☀日常(0.5h) 
 
 ☀日常(1h) 剑雅真题 C14-C19 的写作，小或大选一个做 https://engnovate.com/ielts-listening-tests/
 
@@ -62,6 +61,10 @@ Simon写作例题 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.7
 作文批改 直接用openai/gemini/kimi/deepseek/notion都可，prompt在最下面
 
 小作文史上最全解析——数据图表类 [https://zhuanlan.zhihu.com/p/444388256](https://zhuanlan.zhihu.com/p/444388256)
+
+主要是线图的句式 [小作文万能句式词汇.pdf](小作文万能句式词汇.pdf)
+
+主要是流程图的句式 [流程图常用词.pdf](流程图常用词.pdf)
 
 雅思小作文：线状图/柱状图/饼状图/表格题/流程图/地图题模板 [https://zhuanlan.zhihu.com/p/248199735](https://zhuanlan.zhihu.com/p/248199735)
 
