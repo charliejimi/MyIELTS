@@ -2,15 +2,18 @@
 # ✍本人情况（测试用例）
 ## INPUT
 
-备考IELTS前英语应试基础：高考120 计算机类专业 四级半裸考560 六级裸考480 考研英语半裸考58
+备考IELTS前英语应试基础：计算机类专业 高考120 四级560 六级裸考480 考研58
 
 IELTS投入时间：3.3-4.20(1.5个月) 每日4h-5h 
 
 目标： 总分 > 6.5 各部分 > 5.5
+
+不同读者的基础/分数要求/时间充裕程度都有区别，自然不太可能完全按照这里的安排，推荐直接先fork仓库，再手动计算&增减安排&调整计划
+
 ## OUTPUT
 | Exam Date  | Listening | Reading | Writing | Speaking | Overall | Comments                       |
 |------------|-----------|---------|---------|----------|---------------|--------------------------------|
-| 2025-03-04 | XX       | 7     |  XX    | XX      | N/A          | Cambridge IELTS 19 Academic Reading Test 4|
+| 2025-03-04 | XX       | 7.0     |  6.0(6.0,6.0)    | XX      | N/A          | Cambridge IELTS 19 Academic Reading Test 4 阅读：小题对应的文章内容的顺序一样，mark出题目对应原文位置，看题目词再回原文继续看下去；先打包所有matching选项的关键词，然后边做其它的细节题，边看matching里有没有匹配的答案句，有就直接选，没有就先放一边；雅思官方对于Not Given的定义是：if there is **no information on this** or if it is **impossible to say what the writer thinks** about this 时间事态对象关系细节宽泛/限定程度全部一一匹配才可；作文：似乎得开始背句式了，Lexical resource可以通过一些替换达成，Grammatical range and accuracy对我来说不做错就算万幸先别提range了，既然是机考随时可以修改，我感觉可以跟着grammarly插件学怎么在2min内检查语句|
 | **2025-04-25**| **XX**       | **XX**     |  **XX**    | **XX**      | **XX**          | Real Test |
 
 # 💡IELTS备考须知
@@ -35,15 +38,26 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日4h-5h
 
 对话听力 [https://www.bilibili.com/video/BV1rq4CeDE1h/?spm_id_from=333.1387.favlist.content.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1rq4CeDE1h/?spm_id_from=333.1387.favlist.content.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8)
 
+☀日常(0.5h) 时政新闻,干饭吃瓜推荐 [https://space.bilibili.com/3537120656361663](https://space.bilibili.com/3537120656361663)
+
 ☀日常(1h) 剑雅真题 C14-C19 的听力 https://engnovate.com/ielts-listening-tests/
 
 听力179热点 [https://hefengxian.github.io/my-ielts/#/listening/keyword](https://hefengxian.github.io/my-ielts/#/listening/keyword)
 
 ## 写作
+Firstly，（10天结束课程，小作文2-3天，大作7-8天，可以压缩）看课程，了解大小作文基本框架结构和写作要点；
 
-☀日常(0.5h) Simon写作例题对照写+记录 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=55](https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=55)
+Secondly，（10天结束，大小作文各5篇左右，这一步可以压缩）把Simon的范文翻译成中文，对照中文自己翻译成英语，然后对比错词行文的差距，积累朴素好用的公式句和连接词，不要太多，有6个左右能够训练到使用自如即可；
 
-杜仕明写作课 [https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2](https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2)
+Thirdly，（10天准备），结合观点库梳理发散角度，准备4个角度，6个观点延伸方向，根据剑雅真题写，每天一大一小，可以找批改。
+
+☀日常(0.5h) 
+
+☀日常(1h) 剑雅真题 C14-C19 的写作，小或大选一个做 https://engnovate.com/ielts-listening-tests/
+
+Simon写作例题 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=55](https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=55)
+
+杜仕明写作课+口语900句 [https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2](https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2)
 
 作文批改 直接用openai/gemini/kimi/deepseek/notion都可，prompt在最下面
 
@@ -51,7 +65,14 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日4h-5h
 
 雅思小作文：线状图/柱状图/饼状图/表格题/流程图/地图题模板 [https://zhuanlan.zhihu.com/p/248199735](https://zhuanlan.zhihu.com/p/248199735)
 
+雅思大作文：各类型大作文具体结构及Simon范文 [https://zhuanlan.zhihu.com/p/110710097](https://zhuanlan.zhihu.com/p/672294839)
+
+雅思大作文：细节段落该怎么写？要写几个论据？怎么排列论据才能让文章更有逻辑？ [https://zhuanlan.zhihu.com/p/111439489](https://zhuanlan.zhihu.com/p/111439489)
+
+
 ## 口语
+
+☀日常(0.5h) 口语题库+回答素材【人声带读版】[https://www.bilibili.com/video/BV1hk6gYxEev?spm_id_from=333.788.videopod.episodes](https://www.bilibili.com/video/BV1hk6gYxEev?spm_id_from=333.788.videopod.episodes)
 
 ☀日常(0.5h) 雅思哥APP Part1+2+3 （每年的1、5、9三个月会替换部分Topic，所谓换题月，仅在口语部分参考机经）
 
@@ -59,17 +80,40 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日4h-5h
 
 ## Reading
 
-Criteria: Task Response(TR), Cohesion & Coherence(CC), Lexical Resource(LR), Grammatical Range and Accuracy(GRA) The four individual scores are added together and then divided by four to give an average. Ref:[https://ielts-academic.com/2016/01/07/ielts-writing-scores/](https://ielts-academic.com/2016/01/07/ielts-writing-scores/)
+
 
 ## Listening
 
 ## Writing
+雅思写作主要有以下4个评分维度：
+
+Task response：
+主要考察内容是否扣题、观点是否明确，有无足够的论点去支撑说明。
+
+Coherence and cohesion:
+三个考察的维度：分段是否合理、内容有无前后矛盾、衔接词使用是否恰当。
+
+Lexical resource：
+考察你的表达是否有错误。
+
+Grammatical range and accuracy：
+考察句法的多样性以及是否有语法错误。
+
+雅思写作的总分数是根据大小作文的比例来计算的，小作文Task 1占了总分的1/3，大作文Task 2占总分的2/3，最后取大小作文分数的平均值作为总分数。
+
+雅思作文分值的计算公式：写作总分=(小作文分数)*1/3 +(大作文分数)*2/3 。
+
+举个例子：
+
+比如大作文是6.5，小作文是6.0的话，最后得分是6.5 * 0.66+6.0 * 0.33=6.27，最终写作总分是6.5分。也就是说二者的权重比是1:2。两者都会按照9分制的评分表进行打分，再按照比例计算，最后得出成绩，因此需要尽可能让大作文实现6.5。
+
+Ref:[https://ielts-academic.com/2016/01/07/ielts-writing-scores/](https://ielts-academic.com/2016/01/07/ielts-writing-scores/)
 
 ## Speaking
 
 # 👾Prompt
 
-感谢：https://github.com/BaixuanLi/IELTS-Prompt?tab=readme-ov-file
+引用自：https://github.com/BaixuanLi/IELTS-Prompt
 
 ```markdown
 #### Role Prompt: Who Am I?
@@ -147,4 +191,4 @@ I need to provide improvement suggestions for users according to this.
 | 1 | 1.0 | 1 | 1.0 | 1 | 1.0 |
 | absent | 0.0 | absent | 0.0 | absent | 0.0 |
 
-雅思成绩是0.25进制的，如果平均成绩的小数位是大于等于0.25且小于0.75，那么就入到0.5分档，如果小数位是大于等于0.75分，那么则入到下一个整分档  例如：(6.0 + 6.5 + 6.0 + 6.5) / 4 = 6.25，进位到6.5
+雅思成绩是0.25进制的，如果平均成绩的小数位是大于等于0.25且小于0.75，那么就入到0.5分档，如果小数位是大于等于0.75分，那么则入到下一个整分档  例如：(6.0 + 7.0 + 6.0 + 7.0) / 4 = 6.5 而 (6.0 + 6.5 + 6.0 + 6.5) / 4 = 6.25，进位到 6.5
