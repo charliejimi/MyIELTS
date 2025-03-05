@@ -65,7 +65,7 @@ Simon写作例题 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.7
 
 雅思小作文：线状图/柱状图/饼状图/表格题/流程图/地图题模板 [https://zhuanlan.zhihu.com/p/248199735](https://zhuanlan.zhihu.com/p/248199735)
 
-雅思大作文：各类型大作文具体结构及范文 [https://zhuanlan.zhihu.com/p/110710097](https://zhuanlan.zhihu.com/p/595093149)
+雅思大作文：各类型大作文具体结构及Simon范文 [https://zhuanlan.zhihu.com/p/110710097](https://zhuanlan.zhihu.com/p/672294839)
 
 雅思大作文：细节段落该怎么写？要写几个论据？怎么排列论据才能让文章更有逻辑？ [https://zhuanlan.zhihu.com/p/111439489](https://zhuanlan.zhihu.com/p/111439489)
 
