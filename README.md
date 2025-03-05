@@ -65,6 +65,8 @@ Simon写作例题 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.7
 
 ## 口语
 
+☀日常(0.5h) 口语题库+回答素材【人声带读版】[https://www.bilibili.com/video/BV1hk6gYxEev?spm_id_from=333.788.videopod.episodes](https://www.bilibili.com/video/BV1hk6gYxEev?spm_id_from=333.788.videopod.episodes)
+
 ☀日常(0.5h) 雅思哥APP Part1+2+3 （每年的1、5、9三个月会替换部分Topic，所谓换题月，仅在口语部分参考机经）
 
 # 📕笔记
