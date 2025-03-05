@@ -35,21 +35,31 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日4h-5h
 
 对话听力 [https://www.bilibili.com/video/BV1rq4CeDE1h/?spm_id_from=333.1387.favlist.content.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1rq4CeDE1h/?spm_id_from=333.1387.favlist.content.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8)
 
+☀日常(0.5h) 时政新闻,干饭吃瓜推荐 [https://space.bilibili.com/3537120656361663](https://space.bilibili.com/3537120656361663)
+
 ☀日常(1h) 剑雅真题 C14-C19 的听力 https://engnovate.com/ielts-listening-tests/
 
 听力179热点 [https://hefengxian.github.io/my-ielts/#/listening/keyword](https://hefengxian.github.io/my-ielts/#/listening/keyword)
 
 ## 写作
 
-☀日常(0.5h) Simon写作例题对照写+记录 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=55](https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=55)
+☀日常(0.5h) 
 
-杜仕明写作课 [https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2](https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2)
+Simon写作例题对照写+记录 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=55](https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=55)
+
+杜仕明写作课+口语900句 [https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2](https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2)
 
 作文批改 直接用openai/gemini/kimi/deepseek/notion都可，prompt在最下面
 
 小作文史上最全解析——数据图表类 [https://zhuanlan.zhihu.com/p/444388256](https://zhuanlan.zhihu.com/p/444388256)
 
 雅思小作文：线状图/柱状图/饼状图/表格题/流程图/地图题模板 [https://zhuanlan.zhihu.com/p/248199735](https://zhuanlan.zhihu.com/p/248199735)
+
+雅思大作文：一个Introduction结构自如应对四大常见题型 [https://zhuanlan.zhihu.com/p/110710097](https://zhuanlan.zhihu.com/p/110710097)
+
+雅思大作文：细节段落该怎么写？要写几个论据？怎么排列论据才能让文章更有逻辑？ [https://zhuanlan.zhihu.com/p/111439489](https://zhuanlan.zhihu.com/p/111439489)
+
+
 
 ## 口语
 
