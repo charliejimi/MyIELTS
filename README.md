@@ -51,8 +51,7 @@ Secondly，（10天结束，大小作文各5篇左右，这一步可以压缩）
 
 Thirdly，（10天准备），结合观点库梳理发散角度，准备4个角度，6个观点延伸方向，根据剑雅真题写，每天一大一小，可以找批改。
 
-
-☀日常(1h) 剑雅真题 C14-C19 的写作，小或大选一个做 https://engnovate.com/ielts-listening-tests/
+剑雅真题 C14-C19 的写作 [https://engnovate.com/ielts-listening-tests/](https://engnovate.com/ielts-listening-tests/)
 
 Simon写作例题 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=55](https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=55)
 
