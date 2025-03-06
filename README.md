@@ -44,6 +44,8 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日4h-5h
 
 雅思听力高频词汇 [雅思听力高频词汇.pdf](雅思听力高频词汇.pdf)
 
+350个剑雅听力基础答案词 [雅思听力350个剑桥雅思听力基础答案词.pdf](雅思听力350个剑桥雅思听力基础答案词.pdf)
+
 听力179热点词 [https://hefengxian.github.io/my-ielts/#/listening/keyword](https://hefengxian.github.io/my-ielts/#/listening/keyword)
 
 ## 写作
