@@ -47,13 +47,15 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日4h-5h
 听力179热点词 [https://hefengxian.github.io/my-ielts/#/listening/keyword](https://hefengxian.github.io/my-ielts/#/listening/keyword)
 
 ## 写作
-Firstly，（10天结束课程，小作文2-3天，大作7-8天，可以压缩）看课程，了解大小作文基本框架结构和写作要点；
+Firstly，（10天结束课程，小作文2-3天，大作7-8天，可以压缩）看课程&材料，了解大小作文基本框架结构和写作要点；
 
-Secondly，（10天结束，大小作文各5篇左右，这一步可以压缩）把Simon的范文翻译成中文，对照中文自己翻译成英语，然后对比错词行文的差距，积累朴素好用的公式句和连接词，不要太多，有6个左右能够训练到使用自如即可；
+Secondly，（10天结束，大小作文各5篇左右，这一步可以压缩）把范文翻译成中文，对照中文自己翻译成英语，然后对比错词行文的差距，根据材料积累朴素好用的公式句和连接词，不要太多，有6个左右能够训练到使用自如即可；
 
-Thirdly，（10天准备），结合观点库梳理发散角度，准备4个角度，6个观点延伸方向，根据剑雅真题写，每天一大一小，可以找批改。
+Thirdly，（10天准备），结合话题/预测文档梳理发散角度，准备4个角度，6个观点延伸方向，根据剑雅真题写，每天一大一小，可以找批改。
 
-剑雅真题 C14-C19 的写作 [https://engnovate.com/ielts-listening-tests/](https://engnovate.com/ielts-listening-tests/)
+这里的PDF基本都有编辑权限，Edge或者Acrobat等可以直接做笔记
+
+剑雅真题 C14-C19 的写作 [https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)
 
 Simon写作 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=55](https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=55)
 
