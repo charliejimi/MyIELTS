@@ -30,7 +30,7 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日4h-5h
 
 ☀日常(1h) 剑雅真题 C14-C19 的阅读 [https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)
 
-阅读考点词真经538 [《剑桥雅思阅读考点词真经538（机考笔试综合版）》.pdf](538.pdf)
+阅读考点词真经538 [《剑桥雅思阅读考点词真经538》](雅思阅读刘洪波538考点词.pdf)
 
 ## 听力
 
@@ -42,7 +42,9 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日4h-5h
 
 ☀日常(1h) 剑雅真题 C14-C19 的听力 [https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)
 
-听力179热点 [https://hefengxian.github.io/my-ielts/#/listening/keyword](https://hefengxian.github.io/my-ielts/#/listening/keyword)
+雅思听力高频词汇 [雅思听力高频词汇.pdf](雅思听力高频词汇.pdf)
+
+听力179热点词 [https://hefengxian.github.io/my-ielts/#/listening/keyword](https://hefengxian.github.io/my-ielts/#/listening/keyword)
 
 ## 写作
 Firstly，（10天结束课程，小作文2-3天，大作7-8天，可以压缩）看课程，了解大小作文基本框架结构和写作要点；
@@ -63,7 +65,7 @@ Simon写作 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.vid
 
 雅思小作文：小作文万能句式词汇 [小作文万能句式词汇.pdf](小作文万能句式词汇.pdf)
 
-雅思小作文：主要是流程图的句式 [流程图常用词.pdf](流程图常用词.pdf)
+雅思小作文：主要是流程图的句式 [雅思作文（小）流程图常用词.pdf](雅思作文（小）流程图常用词.pdf)
 
 雅思小作文：线状图/柱状图/饼状图/表格题/流程图/地图题模板 [https://zhuanlan.zhihu.com/p/248199735](https://zhuanlan.zhihu.com/p/248199735)
 
