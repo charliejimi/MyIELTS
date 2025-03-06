@@ -84,6 +84,10 @@ Simon写作 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.vid
 
 ☀日常(0.5h) 雅思哥APP Part1+2+3 （每年的1、5、9三个月会替换部分Topic，所谓换题月，仅在口语部分参考机经）
 
+口语900句 [雅思口语实用900句.pdf](雅思口语实用900句.pdf)
+
+口语题库 [雅思口语2025年1-4月雅思口语题库.pdf.pdf](雅思口语2025年1-4月雅思口语题库.pdf)
+
 # 📕笔记
 
 ## Reading
