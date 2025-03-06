@@ -59,17 +59,19 @@ Simon写作 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.vid
 
 作文批改 打分用[https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)，修改+解析用openai/gemini/kimi/deepseek/notion都可，prompt在最下面
 
-小作文史上最全解析——数据图表类 [https://zhuanlan.zhihu.com/p/444388256](https://zhuanlan.zhihu.com/p/444388256)
+雅思小作文：小作文史上最全解析——数据图表类 [https://zhuanlan.zhihu.com/p/444388256](https://zhuanlan.zhihu.com/p/444388256)
 
-主要是线图的句式 [小作文万能句式词汇.pdf](小作文万能句式词汇.pdf)
+雅思小作文：小作文万能句式词汇 [小作文万能句式词汇.pdf](小作文万能句式词汇.pdf)
 
-主要是流程图的句式 [流程图常用词.pdf](流程图常用词.pdf)
+雅思小作文：主要是流程图的句式 [流程图常用词.pdf](流程图常用词.pdf)
 
 雅思小作文：线状图/柱状图/饼状图/表格题/流程图/地图题模板 [https://zhuanlan.zhihu.com/p/248199735](https://zhuanlan.zhihu.com/p/248199735)
 
 雅思大作文：各类型大作文具体结构及Simon范文 [https://zhuanlan.zhihu.com/p/110710097](https://zhuanlan.zhihu.com/p/672294839)
 
 雅思大作文：细节段落该怎么写？要写几个论据？怎么排列论据才能让文章更有逻辑？ [https://zhuanlan.zhihu.com/p/111439489](https://zhuanlan.zhihu.com/p/111439489)
+
+雅思大作文：大作文万能句式词汇 [https://zhuanlan.zhihu.com/p/43298173](https://zhuanlan.zhihu.com/p/43298173)
 
 
 ## 口语
