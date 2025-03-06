@@ -28,7 +28,7 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日4h-5h
 
 刘洪波雅思阅读 [https://www.bilibili.com/video/BV1c54y187SH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1c54y187SH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8)
 
-☀日常(1h) 剑雅真题 C14-C19 的阅读 [https://engnovate.com/ielts-listening-tests/](https://engnovate.com/ielts-listening-tests/) 
+☀日常(1h) 剑雅真题 C14-C19 的阅读 [https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)
 
 阅读考点词真经538 [《剑桥雅思阅读考点词真经538（机考笔试综合版）》.pdf](538.pdf)
 
@@ -40,7 +40,7 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日4h-5h
 
 ☀日常(0.5h) 时政新闻,即使考完了也可以用来就饭吃 [https://space.bilibili.com/3537120656361663](https://space.bilibili.com/3537120656361663)
 
-☀日常(1h) 剑雅真题 C14-C19 的听力 https://engnovate.com/ielts-listening-tests/
+☀日常(1h) 剑雅真题 C14-C19 的听力 [https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)
 
 听力179热点 [https://hefengxian.github.io/my-ielts/#/listening/keyword](https://hefengxian.github.io/my-ielts/#/listening/keyword)
 
@@ -57,7 +57,7 @@ Simon写作 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.vid
 
 杜仕明写作课+口语900句 [https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2](https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2)
 
-作文批改 直接用openai/gemini/kimi/deepseek/notion都可，prompt在最下面
+作文批改 打分用[https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)，修改+解析用openai/gemini/kimi/deepseek/notion都可，prompt在最下面
 
 小作文史上最全解析——数据图表类 [https://zhuanlan.zhihu.com/p/444388256](https://zhuanlan.zhihu.com/p/444388256)
 
