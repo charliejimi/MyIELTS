@@ -197,6 +197,7 @@ Candidates must have concerns regarding the improvement of their IELTS writing s
 I need to provide improvement suggestions for users according to this.
 ```
 
+串题part2生成自己的材料用的prompt参考
 ```markdown
 如果你是一名雅思考生，现在你要回答英语口语part2的问题，根据下面给出的经历，按雅思口语评分标准能获得7分的参考答案(时长100s)，要求回答使用的语句词语口语化、内容容易理解。并请尽量重复使用你使用过的语句、单词、时间、人名，以提高可复用性，便于我记忆。下面是经历:xxxxx
 ```
