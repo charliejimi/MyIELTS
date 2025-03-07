@@ -87,12 +87,14 @@ Simon写作 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.vid
 
 1 你要先从头到尾读一下当季整个题库。
 
-2 读的时候，你脑海中就会想到一些经历和答案，故事线就有了雏形。
+2 读的时候，你脑海中就会想到一些经历和答案，故事线就有了雏形，可以先列一个mindmap。
 
-3 思考并将故事线合理化(想不出来怎么串也可以把经历给ai帮我们串，但是经历要是我们自己的，prompt在最后)
+3 填充mindmap，思考并将故事线合理化(想不出来怎么串也可以把经历给ai帮我们串，但是经历要是我们自己的，prompt在最后)
 
 4 再根据p2每个题目的侧重点对素材进行改动，紧扣题目。
 写完经历扔给GPT帮我们用英文复述经历。
+
+5 多练习，表达要自然，可以给自己录音，反复听自己说出来的几段完美答案，p2p3都不用背模板。
 
 ☀日常(0.5h) 口语题库+回答素材【人声带读版】[https://www.bilibili.com/video/BV1hk6gYxEev?spm_id_from=333.788.videopod.episodes](https://www.bilibili.com/video/BV1hk6gYxEev?spm_id_from=333.788.videopod.episodes)
 
