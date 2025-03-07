@@ -37,7 +37,7 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日3h-5h
 
 ## 听力
 
-何琼雅思听力 [https://www.bilibili.com/video/BV1a2r8YEEnH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1a2r8YEEnH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8)
+何琼雅思听力 [https://www.bilibili.com/video/BV1a2r8YEEnH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1a2r8YEEnH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8) 课不算长，可以直接看笔记[https://www.cnblogs.com/cauwj/p/17026434.html](https://www.cnblogs.com/cauwj/p/17026434.html)
 
 对话听力 [https://www.bilibili.com/video/BV1rq4CeDE1h/?spm_id_from=333.1387.favlist.content.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1rq4CeDE1h/?spm_id_from=333.1387.favlist.content.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8)
 
