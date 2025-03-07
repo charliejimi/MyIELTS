@@ -85,6 +85,15 @@ Simon写作 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.vid
 
 ## 口语
 
+1 你要先从头到尾读一下当季整个题库。
+
+2 读的时候，你脑海中就会想到一些经历和答案，故事线就有了雏形。
+
+3 思考并将故事线合理化(想不出来怎么串也可以把经历给ai帮我们串，但是经历要是我们自己的，prompt在最后)
+
+4 再根据p2每个题目的侧重点对素材进行改动，紧扣题目。
+写完经历扔给GPT帮我们用英文复述经历。
+
 ☀日常(0.5h) 口语题库+回答素材【人声带读版】[https://www.bilibili.com/video/BV1hk6gYxEev?spm_id_from=333.788.videopod.episodes](https://www.bilibili.com/video/BV1hk6gYxEev?spm_id_from=333.788.videopod.episodes)
 
 ☀日常(0.5h) 雅思哥APP Part1+2+3 （每年的1、5、9三个月会替换部分Topic，所谓换题月，仅在口语部分参考机经）
@@ -130,7 +139,7 @@ Ref:[https://ielts-academic.com/2016/01/07/ielts-writing-scores/](https://ielts-
 
 # 👾Prompt
 
-引用自：https://github.com/BaixuanLi/IELTS-Prompt
+改论文prompt，引用自：https://github.com/BaixuanLi/IELTS-Prompt
 
 ```markdown
 #### Role Prompt: Who Am I?
@@ -187,6 +196,12 @@ Candidates must have concerns regarding the improvement of their IELTS writing s
 
 I need to provide improvement suggestions for users according to this.
 ```
+
+```markdown
+如果你是一名雅思考生，现在你要回答英语口语part2的问题，根据下面给出的经历，按雅思口语评分标准能获得7分的参考答案(时长100s)，要求回答使用的语句词语口语化、内容容易理解。并请尽量重复使用你使用过的语句、单词、时间、人名，以提高可复用性，便于我记忆。下面是经历:xxxxx
+```
+
+
 # Scoring（A:Academic or G:General）
 | Number of correct Listening answers | IELTS band score | Number of correct Reading answers (A) | IELTS band score | Number of correct Reading answers (G) | IELTS band score |
 |---|---|---|---|---|---|
@@ -207,5 +222,8 @@ I need to provide improvement suggestions for users according to this.
 | 2 | 2.0 | 2 | 2.0 | 2-4 | 2.0 |
 | 1 | 1.0 | 1 | 1.0 | 1 | 1.0 |
 | absent | 0.0 | absent | 0.0 | absent | 0.0 |
+
+
+
 
 雅思成绩是0.25进制的，如果平均成绩的小数位是大于等于0.25且小于0.75，那么就入到0.5分档，如果小数位是大于等于0.75分，那么则入到下一个整分档  例如：(6.0 + 7.0 + 6.0 + 7.0) / 4 = 6.5 而 (6.0 + 6.5 + 6.0 + 6.5) / 4 = 6.25，进位到 6.5
