@@ -86,13 +86,15 @@ Simon写作 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.vid
 雅思大作文：大作文万能句式词汇 [https://zhuanlan.zhihu.com/p/43298173](https://zhuanlan.zhihu.com/p/43298173)
 
 
+
+
 ## 口语
 
 1 你要先从头到尾读一下当季整个题库。
 
 2 读的时候，你脑海中就会想到一些经历和答案，故事线就有了雏形，可以先列一个mindmap。
 
-3 填充mindmap，思考并将故事线合理化(想不出来怎么串也可以把经历给ai帮我们串，但是经历要是我们自己的，prompt在最后)
+3 填充mindmap，思考并将故事线合理化 (想不出来怎么串也可以把经历给ai帮我们串，但是经历要是我们自己的，prompt在最后) [我的串题笔记](https://mica-watcher-de3.notion.site/IELTS-Speaking-1b08aba68f0380369883dcb355ed5131?pvs=74)
 
 4 再根据p2每个题目的侧重点对素材进行改动，紧扣题目。写完经历扔给GPT帮我们用英文复述经历。
 
