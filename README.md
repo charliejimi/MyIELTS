@@ -104,6 +104,8 @@ Simon写作 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.vid
 
 口语900句 [雅思口语实用900句.pdf](雅思口语实用900句.pdf)
 
+雅思口语速成，雅思口语全流程教学 [https://b23.tv/5Fw96Ks](https://b23.tv/5Fw96Ks)
+
 口语题库（需要自己找考试日期对应的题库哦） [雅思口语2025年1-4月雅思口语题库.pdf.pdf](雅思口语2025年1-4月雅思口语题库.pdf)
 
 # 📕笔记
