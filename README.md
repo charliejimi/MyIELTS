@@ -16,7 +16,7 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日3h-5h
 ## OUTPUT
 | Exam Date  | Listening | Reading | Writing | Speaking | Overall | Comments                       |
 |------------|-----------|---------|---------|----------|---------------|--------------------------------|
-| 2025-03-04 | 5.5       | 7.0     |  5.5(6.0,5.5)    | XX      | N/A          | Cambridge IELTS 19 Academic Reading Test 4 阅读：小题对应的文章内容的顺序一样，mark出题目对应原文位置，看题目词再回原文继续看下去；先打包所有matching选项的关键词，然后边做其它的细节题，边看matching里有没有匹配的答案句，有就直接选，没有就先放一边；雅思官方对于Not Given的定义是：if there is **no information on this** or if it is **impossible to say what the writer thinks** about this 时间事态对象关系细节宽泛/限定程度全部一一匹配才可；作文：似乎得开始背句式了，Lexical resource可以通过一些替换达成，Grammatical range and accuracy对我来说不做错就算万幸先别提range了，既然是机考随时可以修改，我感觉可以跟着grammarly插件学怎么在2min内检查语句;听力一定要读题|
+| 2025-03-04 | 5.5       | 7.0     |  5.5(6.0,5.5)    | 5.5      | 6.0          | Cambridge IELTS 19 Academic Reading Test 4 阅读：小题对应的文章内容的顺序一样，mark出题目对应原文位置，看题目词再回原文继续看下去；先打包所有matching选项的关键词，然后边做其它的细节题，边看matching里有没有匹配的答案句，有就直接选，没有就先放一边；雅思官方对于Not Given的定义是：if there is **no information on this** or if it is **impossible to say what the writer thinks** about this 时间事态对象关系细节宽泛/限定程度全部一一匹配才可；作文：似乎得开始背句式了，Lexical resource可以通过一些替换达成，Grammatical range and accuracy对我来说不做错就算万幸先别提range了，既然是机考随时可以修改，我感觉可以跟着grammarly插件学怎么在2min内检查语句;听力一定要读题|
 | **2025-04-25**| **XX**       | **XX**     |  **XX**    | **XX**      | **XX**          | Real Test |
 
 # 💡IELTS备考须知
@@ -95,7 +95,7 @@ Simon写作 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.vid
 
 4 再根据p2每个题目的侧重点对素材进行改动，紧扣题目。写完经历扔给GPT帮我们用英文复述经历。
 
-5 多练习，表达要自然，可以给自己录音，反复听自己说出来的几段完美答案，p2p3都不用背模板。engnovate也可以练口语，会给出的润色建议。
+5 多练习，表达要自然，可以给自己录音，反复听自己说出来的几段完美答案，p2p3都不用背模板。
 
 ☀日常(0.5h) 口语题库+回答素材【人声带读版】[https://www.bilibili.com/video/BV1hk6gYxEev?spm_id_from=333.788.videopod.episodes](https://www.bilibili.com/video/BV1hk6gYxEev?spm_id_from=333.788.videopod.episodes)
 
