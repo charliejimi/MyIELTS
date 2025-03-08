@@ -42,6 +42,7 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日3h-5h
 对话听力 [https://www.bilibili.com/video/BV1rq4CeDE1h/?spm_id_from=333.1387.favlist.content.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1rq4CeDE1h/?spm_id_from=333.1387.favlist.content.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8)
 
 地图题相关表达（也适用于小作文） [https://www.xiaohongshu.com/discovery/item/66ec0c64000000000c01a517](https://www.xiaohongshu.com/discovery/item/66ec0c64000000000c01a517)
+
 ☀日常(0.5h) 时政新闻,即使考完了也可以用来就饭吃 [https://space.bilibili.com/3537120656361663](https://space.bilibili.com/3537120656361663)（有时候看bbc或者联合早报，荤素搭配）
 
 ☀日常(1h) 剑雅真题 C14-C19 的听力 [https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)
