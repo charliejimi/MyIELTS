@@ -96,7 +96,7 @@ Simon写作 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.vid
 
 3 填充mindmap，思考并将故事线合理化 (想不出来怎么串也可以把经历给ai帮我们串，但是经历要是我们自己的，prompt在最后) [我的串题笔记](https://mica-watcher-de3.notion.site/IELTS-Speaking-1b08aba68f0380369883dcb355ed5131?pvs=74)
 
-4 再根据p2每个题目的侧重点对素材进行改动，紧扣题目。写完经历扔给GPT帮我们用英文复述经历。
+4 再根据p2每个题目的侧重点对素材进行改动，紧扣题目。经历的不详细/不合适之处可以让GPT/notion继续改进。
 
 5 多练习，表达要自然，可以给自己录音，反复听自己说出来的几段完美答案，p2p3都不用背模板。
 
