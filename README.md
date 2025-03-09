@@ -226,6 +226,8 @@ I need to provide improvement suggestions for users according to this.
 
 warden是我的高中同学/邻居 放学路上经常聊天很投机 是一个和我差不多身高中等身材 性格温暖美好 富有激情 有趣且优秀的开发工程师和创业者 他经常能独自从0建立复杂的技术架构并且懂得营销 我们曾经合作创业做一个家教平台 他鼓励我完成代码的开发 并且组建团队收获了盈利 我曾经送了他一份从京都带回中国的发财御守（这里你可以换成手工做了一个用了布料和写了祝福语的小纸条以及绳子并缝上）因为这是他的创业成功的梦想 他也送给我学业御守在我的家乡宁波 非常默契且感动 希望还能共事共度时光 他给过我的建议是要拓宽视角不止要考虑写代码也要尝试以CTO或者是全栈和营销的角度思考问题
 ```
+可以参考：[我的串题笔记](https://mica-watcher-de3.notion.site/IELTS-Speaking-1b08aba68f0380369883dcb355ed5131?pvs=74) 列大纲和调整都可以在notion里完成
+
 
 
 # Scoring（A:Academic or G:General）
