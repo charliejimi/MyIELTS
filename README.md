@@ -30,11 +30,11 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日3h-5h
 
 ## 阅读
 
-课程：刘洪波雅思阅读 [https://www.bilibili.com/video/BV1c54y187SH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1c54y187SH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8)
+<!-- 课程：刘洪波雅思阅读 [https://www.bilibili.com/video/BV1c54y187SH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1c54y187SH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8) -->
 
 ☀日常(1h) 剑雅真题 C14-C19 的阅读 [https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)
 
-阅读考点词真经538 [《剑桥雅思阅读考点词真经538》](雅思阅读刘洪波538考点词.pdf)
+阅读考点词真经538 [《剑桥雅思阅读考点词真经538》](雅思阅读刘洪波538考点词.pdf) 如果扫一眼文档底部的考点词词库总表，单词基本都认识的话，私以为就可以不用看了
 
 ## 听力
 
