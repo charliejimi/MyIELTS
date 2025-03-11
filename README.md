@@ -90,7 +90,7 @@ Simon写作 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.vid
 
 ## 口语
 
-1 你要先从头到尾读一下当季整个题库。
+1 先从头到尾过一下当季整个题库。
 
 2 读的时候，你脑海中就会想到一些经历和答案，故事线就有了雏形，可以先列一个mindmap。
 
