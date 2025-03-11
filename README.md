@@ -17,7 +17,7 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日3h-5h
 | Exam Date  | Listening | Reading | Writing | Speaking | Overall | Comments                       |
 |------------|-----------|---------|---------|----------|---------------|--------------------------------|
 | 2025-03-04 | 5.5       | 7.0     |  5.5(6.0,5.5)    | 5.5      | 6.0          | Cambridge IELTS 19 Academic Reading Test 4 阅读：小题对应的文章内容的顺序一样，mark出题目对应原文位置，看题目词再回原文继续看下去；先打包所有matching选项的关键词，然后边做其它的细节题，边看matching里有没有匹配的答案句，有就直接选，没有就先放一边；雅思官方对于Not Given的定义是：if there is **no information on this** or if it is **impossible to say what the writer thinks** about this 时间时态对象关系细节宽泛/限定程度全部一一匹配才可；作文：似乎得开始背句式了，Lexical resource可以通过一些替换达成，Grammatical range and accuracy对我来说不做错就算万幸先别提range了，既然是机考随时可以修改，我感觉可以跟着grammarly插件学怎么在2min内检查语句;听力一定要读题|
-| 2025-03-10 | 6.0       |  6.5    |   6.5(6.5,6.5)   |       |           | Cambridge IELTS 19 Academic Reading Test 3  听力：听力配对题需要先把ABCDEF的意思想清楚，要注意同义词替换和关键词可能的指代例如关键词：children with a disability可能指的是deaf Blind hearing impaired children;顶级重要的是，某一个空错过了不能回头看，立刻在下一个定位词设防，战线不能全面崩溃;阅读：流程图也是150词，多水一些说明和修饰词|
+| 2025-03-10 | 6.0       |  6.5    |   6.5(6.5,6.5)   |       |           | Cambridge IELTS 19 Academic Reading Test 3  听力：听力配对题需要先把ABCDEF的意思想清楚，要注意同义词替换和关键词可能的指代例如关键词：children with a disability可能指的是deaf Blind hearing impaired children;顶级重要的是，某一个空错过了不能回头看，立刻在下一个定位词设防，战线不能全面崩溃;阅读：流程图也是150词，多水一些说明和修饰词；阅读：平行阅读法，乱序题先记住，顺序精读文章答顺序题并时刻注意匹配乱序题|
 | **2025-04-25**| **XX**       | **XX**     |  **XX**    | **XX**      | **XX**          | Real Test |
 
 # 💡IELTS备考须知
@@ -30,11 +30,11 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日3h-5h
 
 ## 阅读
 
-课程：刘洪波雅思阅读 [https://www.bilibili.com/video/BV1c54y187SH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1c54y187SH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8)
+<!-- 课程：刘洪波雅思阅读 [https://www.bilibili.com/video/BV1c54y187SH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1c54y187SH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8) -->
 
 ☀日常(1h) 剑雅真题 C14-C19 的阅读 [https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)
 
-阅读考点词真经538 [《剑桥雅思阅读考点词真经538》](雅思阅读刘洪波538考点词.pdf)
+阅读考点词真经538 [《剑桥雅思阅读考点词真经538》](雅思阅读刘洪波538考点词.pdf) 如果扫一眼文档底部的考点词词库总表，单词基本都认识的话，私以为就可以不用看了
 
 ## 听力
 
@@ -66,7 +66,7 @@ Thirdly，（10天准备），结合话题/预测文档梳理发散角度，准�
 
 剑雅真题 C14-C19 的写作 [https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)
 
-杜仕明写作课+口语900句 [https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2](https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2)
+<!-- 杜仕明写作课+口语900句 [https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2](https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2) -->
 
 作文批改 打分用[https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)，修改+解析用openai/gemini/kimi/deepseek/notion都可，prompt在最下面
 
@@ -94,7 +94,7 @@ Thirdly，（10天准备），结合话题/预测文档梳理发散角度，准�
 
 2 读的时候，你脑海中就会想到一些经历和答案，故事线就有了雏形，可以先列一个mindmap。
 
-3 填充mindmap，思考并将故事线合理化 (想不出来怎么串也可以把经历给ai帮我们串，但是经历要是我们自己的，prompt在最后) [我的串题笔记](https://mica-watcher-de3.notion.site/IELTS-Speaking-1b08aba68f0380369883dcb355ed5131?pvs=74)
+3 填充mindmap，思考并将故事线合理化 (想不出来怎么串也可以把经历给ai帮我们串，但是经历要是我们自己的，prompt在最后) 
 
 4 再根据p2每个题目的侧重点对素材进行改动，紧扣题目。经历的不详细/不合适之处可以让GPT/notion继续改进。
 
@@ -104,9 +104,11 @@ Thirdly，（10天准备），结合话题/预测文档梳理发散角度，准�
 
 ☀日常(0.5h) 雅思哥APP Part1+2+3 （每年的1、5、9三个月会替换部分Topic，所谓换题月，仅在口语部分参考机经）
 
+
+
 口语900句 [雅思口语实用900句.pdf](雅思口语实用900句.pdf)
 
-口语题库（需要自己找考试日期对应的题库哦） [雅思口语2025年1-4月雅思口语题库.pdf.pdf](雅思口语2025年1-4月雅思口语题库.pdf) 这里有我的串题笔记对应的话题的标记，有兴趣可以参考
+口语题库（需要自己找考试日期对应的题库哦） [雅思口语2025年1-4月雅思口语题库.pdf](雅思口语2025年1-4月雅思口语题库.pdf) 这里有我的串题笔记对应的话题的标记，有兴趣可以参考我的Speaking笔记本（包含串题资料） [Notion page](https://mica-watcher-de3.notion.site/IELTS-Speaking-1b08aba68f0380369883dcb355ed5131?pvs=74)
 
 # 📕笔记
 
@@ -142,6 +144,8 @@ Grammatical range and accuracy：
 Ref:[https://ielts-academic.com/2016/01/07/ielts-writing-scores/](https://ielts-academic.com/2016/01/07/ielts-writing-scores/)
 
 ## Speaking
+
+[Notion page](https://mica-watcher-de3.notion.site/IELTS-Speaking-1b08aba68f0380369883dcb355ed5131?pvs=74)
 
 # Scoring（A:Academic or G:General）
 | Number of correct Listening answers | IELTS band score | Number of correct Reading answers (A) | IELTS band score | Number of correct Reading answers (G) | IELTS band score |
@@ -233,22 +237,28 @@ I need to provide improvement suggestions for users according to this.
 
 串题part2生成自己的材料用的prompt参考
 ```markdown
-喜欢一起聊天的朋友
-想要共事的家人
-想共度时光的人
-送朋友的礼物
-惊喜的事情
-一见且想再见的人
-重遇旧友
-给建议的人
-阅读爱好者
-喜欢做手工的人
-有趣的邻居
-精力充沛的人
+#### 主题：
 
-如果你是一名雅思考生，现在你要回答英语口语part2的问题，根据下面给出的经历，按雅思口语评分标准能获得7分的一份参考答案(时长100s)，要求能够同时运用于以上话题，要求回答使用的语句词语口语化、内容容易理解。
-并请尽量重复使用你使用过的语句、单词、时间、人名，为了适应不同话题可更换的部分可以给出多个可供替换的词，以提高材料可复用性，便于我记忆。
-给我一整段包含所有的问题答案需要的内容，要有足够的细节以至于用每个问题提问时都有足够语料，下面是经历:
+- 喜欢一起聊天的朋友
+- 想要共事的家人
+- 想共度时光的人
+- 送朋友的礼物
+- 惊喜的事情
+- 一见且想再见的人
+- 重遇旧友
+- 给建议的人
+- 阅读爱好者
+- 喜欢做手工的人
+- 有趣的邻居
+- 精力充沛的人
+
+#### 要求：
+
+- 如果你是一名雅思考生，现在你要回答英语口语part2的问题，根据下面给出的经历，按雅思口语评分标准能获得7分的一份参考答案(时长100s)，要求能够同时运用于以上话题，要求回答使用的语句词语口语化、内容容易理解。
+- 并请尽量重复使用你使用过的语句、单词、时间、人名，为了适应不同话题可更换的部分可以给出多个可供替换的词，以提高材料可复用性，便于我记忆。
+- 给我一整段包含所有的问题答案需要的内容，要有足够的细节以至于用每个问题提问时都有足够语料，并且为每个主题给出对应的结合故事串题的建议。
+
+#### 经历：
 
 warden是我的高中同学/邻居 放学路上经常聊天很投机 是一个和我差不多身高中等身材 性格温暖美好 富有激情 有趣且优秀的开发工程师和创业者 他经常能独自从0建立复杂的技术架构并且懂得营销 我们曾经合作创业做一个家教平台 他鼓励我完成代码的开发 并且组建团队收获了盈利 我曾经送了他一份从京都带回中国的发财御守（这里你可以换成手工做了一个用了布料和写了祝福语的小纸条以及绳子并缝上）因为这是他的创业成功的梦想 他也送给我学业御守在我的家乡宁波 非常默契且感动 希望还能共事共度时光 他给过我的建议是要拓宽视角不止要考虑写代码也要尝试以CTO或者是全栈和营销的角度思考问题
 ```
