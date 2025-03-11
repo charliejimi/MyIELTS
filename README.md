@@ -30,7 +30,7 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日3h-5h
 
 ## 阅读
 
-刘洪波雅思阅读 [https://www.bilibili.com/video/BV1c54y187SH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1c54y187SH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8)
+课程：刘洪波雅思阅读 [https://www.bilibili.com/video/BV1c54y187SH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1c54y187SH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8)
 
 ☀日常(1h) 剑雅真题 C14-C19 的阅读 [https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)
 
@@ -38,9 +38,7 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日3h-5h
 
 ## 听力
 
-何琼雅思听力 [https://www.bilibili.com/video/BV1a2r8YEEnH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1a2r8YEEnH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8) 课不算长，可以直接看笔记[https://www.cnblogs.com/cauwj/p/17026434.html](https://www.cnblogs.com/cauwj/p/17026434.html)
-
-对话听力 [https://www.bilibili.com/video/BV1rq4CeDE1h/?spm_id_from=333.1387.favlist.content.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1rq4CeDE1h/?spm_id_from=333.1387.favlist.content.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8)
+课程：何琼雅思听力 [https://www.bilibili.com/video/BV1a2r8YEEnH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1a2r8YEEnH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8) 课不算长，可以直接看笔记[https://www.cnblogs.com/cauwj/p/17026434.html](https://www.cnblogs.com/cauwj/p/17026434.html)
 
 地图题相关表达（也适用于小作文） [https://www.xiaohongshu.com/discovery/item/66ec0c64000000000c01a517](https://www.xiaohongshu.com/discovery/item/66ec0c64000000000c01a517)
 
@@ -55,6 +53,9 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日3h-5h
 听力179热点词 [https://hefengxian.github.io/my-ielts/#/listening/keyword](https://hefengxian.github.io/my-ielts/#/listening/keyword)
 
 ## 写作
+
+课程：Simon写作 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=55](https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=55)
+
 Firstly，（10天结束课程，小作文2-3天，大作7-8天，可以压缩）看课程&材料，了解大小作文基本框架结构和写作要点；
 
 Secondly，（10天结束，大小作文各5篇左右，这一步可以压缩）把范文翻译成中文，对照中文自己翻译成英语，然后对比错词行文的差距，根据材料积累朴素好用的公式句和连接词，不要太多，有6个左右能够训练到使用自如即可；
@@ -64,8 +65,6 @@ Thirdly，（10天准备），结合话题/预测文档梳理发散角度，准�
 这里的PDF基本都有编辑权限，Edge或者Acrobat等可以直接做笔记
 
 剑雅真题 C14-C19 的写作 [https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)
-
-Simon写作 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=55](https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=55)
 
 杜仕明写作课+口语900句 [https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2](https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2)
 
@@ -89,6 +88,7 @@ Simon写作 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.vid
 
 
 ## 口语
+课程：雅思口语速成，雅思口语全流程教学 [https://b23.tv/5Fw96Ks](https://b23.tv/5Fw96Ks)
 
 1 先从头到尾过一下当季整个题库。
 
@@ -105,8 +105,6 @@ Simon写作 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.vid
 ☀日常(0.5h) 雅思哥APP Part1+2+3 （每年的1、5、9三个月会替换部分Topic，所谓换题月，仅在口语部分参考机经）
 
 口语900句 [雅思口语实用900句.pdf](雅思口语实用900句.pdf)
-
-雅思口语速成，雅思口语全流程教学 [https://b23.tv/5Fw96Ks](https://b23.tv/5Fw96Ks)
 
 口语题库（需要自己找考试日期对应的题库哦） [雅思口语2025年1-4月雅思口语题库.pdf.pdf](雅思口语2025年1-4月雅思口语题库.pdf) 这里有我的串题笔记对应的话题的标记，有兴趣可以参考
 
