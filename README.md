@@ -71,9 +71,9 @@ Simon写作 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.vid
 
 作文批改 打分用[https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)，修改+解析用openai/gemini/kimi/deepseek/notion都可，prompt在最下面
 
-雅思小作文：小作文史上最全解析——数据图表类 [https://zhuanlan.zhihu.com/p/444388256](https://zhuanlan.zhihu.com/p/444388256)
+<!-- 雅思小作文：小作文史上最全解析——数据图表类 [https://zhuanlan.zhihu.com/p/444388256](https://zhuanlan.zhihu.com/p/444388256) -->
 
-雅思小作文：小作文万能句式词汇 [小作文万能句式词汇.pdf](小作文万能句式词汇.pdf)
+雅思小作文：小作文万能句式词汇 [小作文万能句式词汇.pdf](小作文万能句式词汇.pdf) 
 
 雅思小作文：主要是流程图的句式 [雅思作文（小）流程图常用词.pdf](雅思作文（小）流程图常用词.pdf)
 
