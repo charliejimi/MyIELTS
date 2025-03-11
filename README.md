@@ -81,8 +81,6 @@ Simon写作 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.vid
 
 雅思大作文：各类型大作文具体结构及Simon范文 [https://zhuanlan.zhihu.com/p/110710097](https://zhuanlan.zhihu.com/p/672294839)
 
-雅思大作文：细节段落该怎么写？要写几个论据？怎么排列论据才能让文章更有逻辑？ [https://zhuanlan.zhihu.com/p/111439489](https://zhuanlan.zhihu.com/p/111439489)
-
 雅思大作文：大作文万能句式词汇 [https://zhuanlan.zhihu.com/p/43298173](https://zhuanlan.zhihu.com/p/43298173)
 
 
