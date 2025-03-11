@@ -79,7 +79,9 @@ Simon写作 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.vid
 
 雅思小作文：线状图/柱状图/饼状图/表格题/流程图/地图题模板 [https://zhuanlan.zhihu.com/p/248199735](https://zhuanlan.zhihu.com/p/248199735)
 
-雅思大作文：各类型大作文具体结构及Simon范文 [https://zhuanlan.zhihu.com/p/110710097](https://zhuanlan.zhihu.com/p/672294839)
+雅思小作文：小作文详解+范文(对照着翻译，小作文6篇) [雅思作文（小）小作文详解+范文.pdf](雅思作文（小）小作文详解+范文.pdf)
+
+雅思大作文：四大题型模板+范文(对照着翻译，大作文4篇) [雅思作文（大）四大题型模板+范文.pdf](雅思作文（大）四大题型模板+范文.pdf)
 
 雅思大作文：大作文万能句式词汇 [https://zhuanlan.zhihu.com/p/43298173](https://zhuanlan.zhihu.com/p/43298173)
 
