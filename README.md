@@ -102,9 +102,10 @@ Thirdly，（10天准备），结合话题/预测文档梳理发散角度，准�
 
 ☀日常(0.5h) 口语题库+回答素材【人声带读版】[https://www.bilibili.com/video/BV1hk6gYxEev?spm_id_from=333.788.videopod.episodes](https://www.bilibili.com/video/BV1hk6gYxEev?spm_id_from=333.788.videopod.episodes)
 
+
 ☀日常(0.5h) 雅思哥APP Part1+2+3 （每年的1、5、9三个月会替换部分Topic，所谓换题月，仅在口语部分参考机经）
 
-
+条件句虚拟语气 [小红书条件句虚拟语气形式+例句](https://www.xiaohongshu.com/discovery/item/667eaf8a000000001f007951)
 
 口语900句 [雅思口语实用900句.pdf](雅思口语实用900句.pdf)
 
