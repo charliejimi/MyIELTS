@@ -16,15 +16,17 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日3h-5h
 ## OUTPUT
 | Exam Date  | Listening | Reading | Writing | Speaking | Overall | Comments                       |
 |------------|-----------|---------|---------|----------|---------------|--------------------------------|
-| 2025-03-04 | 5.5       | 7.0     |  5.5(6.0,5.5)    | 5.5      | 6.0          | Cambridge IELTS 19 Academic Reading Test 4 阅读：小题对应的文章内容的顺序一样，mark出题目对应原文位置，看题目词再回原文继续看下去；先打包所有matching选项的关键词，然后边做其它的细节题，边看matching里有没有匹配的答案句，有就直接选，没有就先放一边；雅思官方对于Not Given的定义是：if there is **no information on this** or if it is **impossible to say what the writer thinks** about this 时间时态对象关系细节宽泛/限定程度全部一一匹配才可；作文：似乎得开始背句式了，Lexical resource可以通过一些替换达成，Grammatical range and accuracy对我来说不做错就算万幸先别提range了，既然是机考随时可以修改，我感觉可以跟着grammarly插件学怎么在2min内检查语句;听力一定要读题|
-| 2025-03-10 | 6.0       |  6.5    |   6.5(6.5,6.5)   |       |           | Cambridge IELTS 19 Academic Reading Test 3  听力：听力配对题需要先把ABCDEF的意思想清楚，要注意同义词替换和关键词可能的指代例如关键词：children with a disability可能指的是deaf Blind hearing impaired children;顶级重要的是，某一个空错过了不能回头看，立刻在下一个定位词设防，战线不能全面崩溃;阅读：流程图也是150词，多水一些说明和修饰词；阅读：平行阅读法，乱序题先记住，顺序精读文章答顺序题并时刻注意匹配乱序题|
+| 2025-03-04 | 5.5       | 7.0     |  5.5(6.0,5.5)    | 5.5      | 6.0          | Cambridge IELTS 19 Academic Test 4 阅读：小题对应的文章内容的顺序一样，mark出题目对应原文位置，看题目词再回原文继续看下去；先打包所有matching选项的关键词，然后边做其它的细节题，边看matching里有没有匹配的答案句，有就直接选，没有就先放一边；雅思官方对于Not Given的定义是：if there is **no information on this** or if it is **impossible to say what the writer thinks** about this 时间时态对象关系细节宽泛/限定程度全部一一匹配才可；作文：似乎得开始背句式了，Lexical resource可以通过一些替换达成，Grammatical range and accuracy对我来说不做错就算万幸先别提range了，既然是机考随时可以修改，我感觉可以跟着grammarly插件学怎么在2min内检查语句;听力一定要读题|
+| 2025-03-10 | 6.0       |  6.5    |   6.5(6.5,6.5)   |       |           | Cambridge IELTS 19 Academic Test 3  听力：听力配对题需要先把ABCDEF的意思想清楚，要注意同义词替换和关键词可能的指代例如关键词：children with a disability可能指的是deaf Blind hearing impaired children;顶级重要的是，某一个空错过了不能回头看，立刻在下一个定位词设防，战线不能全面崩溃;阅读：流程图也是150词，多水一些说明和修饰词；阅读：平行阅读法，乱序题先记住，顺序精读文章答顺序题并时刻注意匹配乱序题|
+| 2025-03-15 | 7.0      |     |      |       |           | Cambridge IELTS 19 Academic Test 2 听力：通过冠词和数词、量词来判断名词的单复式形式。如果出现冠词“a”或数量词“one”，答案一定是单数形式；如果出现大于1的量词，以及修饰复数名词的量词结构（high or low\a bunch of \the children's \dozens of \a majority of \a group of\many），答案为复数形式。如果能听到复数的s尾音，遵循所听即所得。如果无法判断出空格语法形式，建议写单数。|
+| 2025-03-18 |       |     |      |       |           | Cambridge IELTS 19 Academic Test 2 |
 | **2025-04-25**| **XX**       | **XX**     |  **XX**    | **XX**      | **XX**          | Real Test |
 
 # 💡IELTS备考须知
 
 [海外求学工科生的经验之谈]( https://zhuanlan.zhihu.com/p/101041748)， 有关工科生备考雅思的经验和思考
 
-[机考/笔试考点报名预约链接(British Council)](https://ieltsregistration.britishcouncil.org )，中国大陆考点会跳转新页面，我选择a类，机考，考点：EIKEN Osaka IELTS Test Centre Dojima Avanza
+[机考/笔试考点报名预约链接(British Council)](https://ieltsregistration.britishcouncil.org )，中国大陆考点会跳转新页面，我选择A类（学术类，一般用于学校申请），机考，考点：EIKEN Osaka IELTS Test Centre Dojima Avanza
 
 # ⏱日常流程&资料
 
@@ -51,6 +53,8 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日3h-5h
 350个剑雅听力基础答案词 [雅思听力350个剑桥雅思听力基础答案词.pdf](雅思听力350个剑桥雅思听力基础答案词.pdf)
 
 听力179热点词 [https://hefengxian.github.io/my-ielts/#/listening/keyword](https://hefengxian.github.io/my-ielts/#/listening/keyword)
+
+雅思听力179核心考点词 人声纯享版 [https://b23.tv/TKxnXZN](https://b23.tv/TKxnXZN)
 
 ## 写作
 
@@ -102,9 +106,10 @@ Thirdly，（10天准备），结合话题/预测文档梳理发散角度，准�
 
 ☀日常(0.5h) 口语题库+回答素材【人声带读版】[https://www.bilibili.com/video/BV1hk6gYxEev?spm_id_from=333.788.videopod.episodes](https://www.bilibili.com/video/BV1hk6gYxEev?spm_id_from=333.788.videopod.episodes)
 
+
 ☀日常(0.5h) 雅思哥APP Part1+2+3 （每年的1、5、9三个月会替换部分Topic，所谓换题月，仅在口语部分参考机经）
 
-
+条件句虚拟语气 [小红书条件句虚拟语气形式+例句](https://www.xiaohongshu.com/discovery/item/667eaf8a000000001f007951)
 
 口语900句 [雅思口语实用900句.pdf](雅思口语实用900句.pdf)
 
