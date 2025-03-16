@@ -26,7 +26,7 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日3h-5h
 
 [海外求学工科生的经验之谈](https://zhuanlan.zhihu.com/p/101041748)， 有关工科生备考雅思的经验和思考
 
-什么是平行阅读法? [知乎回答](https://www.zhihu.com/question/42065720/answer/232654969)
+
 
 [机考/笔试考点报名预约链接(British Council)](https://ieltsregistration.britishcouncil.org )，中国大陆考点会跳转新页面，我选择A类（学术类，一般用于学校申请），机考，考点：EIKEN Osaka IELTS Test Centre Dojima Avanza
 
@@ -37,6 +37,8 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日3h-5h
 <!-- 课程：刘洪波雅思阅读 [https://www.bilibili.com/video/BV1c54y187SH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1c54y187SH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8) -->
 
 ☀日常(1h) 剑雅真题 C14-C19 的阅读 [https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)
+
+什么是平行阅读法? [知乎回答](https://www.zhihu.com/question/42065720/answer/232654969)
 
 阅读考点词真经538 [《剑桥雅思阅读考点词真经538》](雅思阅读刘洪波538考点词.pdf) 如果扫一眼文档底部的考点词词库总表，单词基本都认识的话，私以为就可以不用看了
 
