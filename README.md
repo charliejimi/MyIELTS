@@ -187,7 +187,7 @@ Ref:[https://ielts-academic.com/2016/01/07/ielts-writing-scores/](https://ielts-
 
 # 👾Prompt
 
-改论文prompt，引用自：https://github.com/BaixuanLi/IELTS-Prompt
+改大小作文prompt，引用自：https://github.com/BaixuanLi/IELTS-Prompt
 
 ```markdown
 #### Role Prompt: Who Am I?
