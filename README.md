@@ -40,15 +40,15 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日2h-5h
 
 `☀日常(1.5h)` 剑雅真题 C14-C19 的阅读 [https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)
 
-`🤔一次性` 什么是平行阅读法? [知乎回答](https://www.zhihu.com/question/42065720/answer/232654969) 建议先了解一下，平行阅读法不一定有助于提多少分，但是在雅思的题型安排下一般会有助于提高做题速度
+`🤔一次性` 什么是平行阅读法? [知乎回答](https://www.zhihu.com/question/42065720/answer/232654969) 👈 建议先了解一下，平行阅读法不一定有助于提多少分，但是在雅思的题型安排下一般会有助于提高做题速度
 
-阅读考点词真经538 [《剑桥雅思阅读考点词真经538》](雅思阅读刘洪波538考点词.pdf) 如果扫一眼文档底部的考点词词库总表，单词基本都认识的话，私以为就可以不用看了
+阅读考点词真经538 [《剑桥雅思阅读考点词真经538》](雅思阅读刘洪波538考点词.pdf) 👈 如果扫一眼文档底部的考点词词库总表，单词基本都认识的话，私以为就可以不用看了
 
 ## 听力
 
- `🤔一次性` 课程：何琼雅思听力 [https://www.bilibili.com/video/BV1a2r8YEEnH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1a2r8YEEnH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8) 课不算长，可以直接看笔记[https://www.cnblogs.com/cauwj/p/17026434.html](https://www.cnblogs.com/cauwj/p/17026434.html)
+ `🤔一次性` 课程：何琼雅思听力 [https://www.bilibili.com/video/BV1a2r8YEEnH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1a2r8YEEnH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8) 👈 课不算长，可以直接看笔记[https://www.cnblogs.com/cauwj/p/17026434.html](https://www.cnblogs.com/cauwj/p/17026434.html)
 
-`☀日常(0.5h)` 时政新闻,即使考完了也可以用来就饭吃 [https://space.bilibili.com/3537120656361663](https://space.bilibili.com/3537120656361663)（有时候看bbc或者联合早报，荤素搭配）
+`☀日常(0.5h)` 时政新闻,即使考完了也可以用来就饭吃 [https://space.bilibili.com/3537120656361663](https://space.bilibili.com/3537120656361663) 👈 有时候看bbc或者联合早报，荤素搭配
 
 `☀日常(1.5h)` 剑雅真题 C14-C19 的听力 [https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)
 
@@ -61,7 +61,7 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日2h-5h
 
 - 350个剑雅听力基础答案词 [雅思听力350个剑桥雅思听力基础答案词.pdf](雅思听力350个剑桥雅思听力基础答案词.pdf)
 
-- 听力179热点词 [https://hefengxian.github.io/my-ielts/#/listening/keyword](https://hefengxian.github.io/my-ielts/#/listening/keyword)  人声纯享版 [https://b23.tv/TKxnXZN](https://b23.tv/TKxnXZN)
+- 听力179热点词 [https://hefengxian.github.io/my-ielts/#/listening/keyword](https://hefengxian.github.io/my-ielts/#/listening/keyword)  👈 人声纯享版 [https://b23.tv/TKxnXZN](https://b23.tv/TKxnXZN)
 
 ## 写作
 
@@ -75,7 +75,7 @@ Thirdly，（10天准备），结合话题/预测文档梳理发散角度，准�
 
 这里的PDF基本都有编辑权限，Edge或者Acrobat等可以直接做笔记
 
-剑雅真题 C14-C19 的写作 [https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/) engnovate达到作文/听力免费ai批改次数上限怎么办？（浏览器无痕窗口，engnovate只验证邮箱，你懂的）
+剑雅真题 C14-C19 的写作 [https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/) 👈 engnovate达到作文/听力免费ai批改次数上限怎么办？（浏览器无痕窗口，engnovate只验证邮箱，你懂的）
 
 <!-- 杜仕明写作课+口语900句 [https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2](https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2) -->
 
@@ -99,7 +99,7 @@ Thirdly，（10天准备），结合话题/预测文档梳理发散角度，准�
 
 
 ## 口语
- `🤔一次性` 课程：雅思口语速成，雅思口语全流程教学 [https://b23.tv/5Fw96Ks](https://b23.tv/5Fw96Ks) 不长，可以只看part1部分
+ `🤔一次性` 课程：雅思口语速成，雅思口语全流程教学 [https://b23.tv/5Fw96Ks](https://b23.tv/5Fw96Ks) 👈 不长，可以只看part1部分
 
 1 先从头到尾过一下当季整个题库。
 
@@ -119,7 +119,7 @@ Thirdly，（10天准备），结合话题/预测文档梳理发散角度，准�
 
 口语900句 [雅思口语实用900句.pdf](雅思口语实用900句.pdf)
 
-口语题库（需要自己找考试日期对应的题库哦） [雅思口语2025年1-4月雅思口语题库.pdf](雅思口语2025年1-4月雅思口语题库.pdf) 这里有我的串题笔记对应的话题的标记，有兴趣可以参考我的Speaking笔记本（包含串题资料） [Notion page](https://mica-watcher-de3.notion.site/IELTS-Speaking-1b08aba68f0380369883dcb355ed5131?pvs=74)
+口语题库（需要自己找考试日期对应的题库哦） [雅思口语2025年1-4月雅思口语题库.pdf](雅思口语2025年1-4月雅思口语题库.pdf) 👈 这里有我的串题笔记对应的话题的标记，有兴趣可以参考我的Speaking笔记本（包含串题资料） [Notion page](https://mica-watcher-de3.notion.site/IELTS-Speaking-1b08aba68f0380369883dcb355ed5131?pvs=74)
 
 # 📕笔记
 
