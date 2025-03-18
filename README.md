@@ -53,13 +53,15 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日2h-5h
 
 ☀日常(1h) 剑雅真题 C14-C19 的听力 [https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)
 
-雅思听力高频词汇 [雅思听力高频词汇.pdf](雅思听力高频词汇.pdf) 👈 如果三个词表只想看一个的话看这个（最多且最复杂的）就可以了
+听力词汇
 
-350个剑雅听力基础答案词 [雅思听力350个剑桥雅思听力基础答案词.pdf](雅思听力350个剑桥雅思听力基础答案词.pdf)
+- 雅思听力高频词汇 [雅思听力高频词汇.pdf](雅思听力高频词汇.pdf) 👈 如果三个词表只想看一个的话看这个（最多且最复杂的）就可以了
 
-听力179热点词 [https://hefengxian.github.io/my-ielts/#/listening/keyword](https://hefengxian.github.io/my-ielts/#/listening/keyword)
+- 350个剑雅听力基础答案词 [雅思听力350个剑桥雅思听力基础答案词.pdf](雅思听力350个剑桥雅思听力基础答案词.pdf)
 
-雅思听力179核心考点词 人声纯享版 [https://b23.tv/TKxnXZN](https://b23.tv/TKxnXZN)
+- 听力179热点词 [https://hefengxian.github.io/my-ielts/#/listening/keyword](https://hefengxian.github.io/my-ielts/#/listening/keyword)
+
+- 雅思听力179核心考点词 人声纯享版 [https://b23.tv/TKxnXZN](https://b23.tv/TKxnXZN)
 
 ## 写作
 
