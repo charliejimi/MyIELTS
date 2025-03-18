@@ -29,7 +29,7 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日3h-5h
 
 
 
-[机考/笔试考点报名预约链接(British Council)](https://ieltsregistration.britishcouncil.org )，中国大陆考点会跳转新页面，我选择A类（学术类，一般用于学校申请），机考，考点：EIKEN Osaka IELTS Test Centre Dojima Avanza
+[机考/笔试考点报名预约链接(British Council)](https://ieltsregistration.britishcouncil.org )，中国大陆考点会跳转新页面，我选择A类（academic，一般用于学校申请），机考，考点：EIKEN Osaka IELTS Test Centre Dojima Avanza
 
 # ⏱日常流程&资料
 
