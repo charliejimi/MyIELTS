@@ -46,7 +46,7 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日2h-5h
 
 ## 听力
 
- `🤔一次性` 课程：何琼雅思听力 [B站](https://www.bilibili.com/video/BV1a2r8YEEnH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8) 👈 课不算长，可以直接看笔记[https://www.cnblogs.com/cauwj/p/17026434.html](https://www.cnblogs.com/cauwj/p/17026434.html)
+ `🤔一次性` 课程：何琼雅思听力 [B站](https://www.bilibili.com/video/BV1a2r8YEEnH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8) 👈 课不算长，可以直接看笔记 [博客园](https://www.cnblogs.com/cauwj/p/17026434.html)
 
 `☀日常(0.5h)` 时政新闻,即使考完了也可以用来就饭吃 [B站](https://space.bilibili.com/3537120656361663) 👈 有时候看bbc或者联合早报，荤素搭配
 
