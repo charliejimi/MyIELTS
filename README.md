@@ -27,8 +27,6 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日2h-5h
 
 [海外求学工科生的经验之谈](https://zhuanlan.zhihu.com/p/101041748)， 有关工科生备考雅思的经验和思考
 
-
-
 [机考/笔试考点报名预约链接(British Council)](https://ieltsregistration.britishcouncil.org )，中国大陆考点会跳转新页面，我选择A类（academic，一般用于学校申请），机考，考点：EIKEN Osaka IELTS Test Centre Dojima Avanza
 
 # ⏱日常流程&资料
@@ -73,7 +71,7 @@ Thirdly，（10天准备），结合话题/预测文档梳理发散角度，准�
 
 这里的PDF基本都有编辑权限，Edge或者Acrobat等可以直接做笔记
 
-剑雅真题 C14-C19 的写作 [https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)
+剑雅真题 C14-C19 的写作 [https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/) engnovate达到作文/听力免费ai批改次数上限怎么办？（浏览器无痕窗口，engnovate只验证邮箱，你懂的）
 
 <!-- 杜仕明写作课+口语900句 [https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2](https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2) -->
 
