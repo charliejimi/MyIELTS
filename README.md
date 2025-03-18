@@ -31,11 +31,13 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日2h-5h
 
 # ⏱日常流程&资料
 
+标注 `☀日常` 的不是天天都必须做，只是作为例行任务常做就ok，视自己实际情况而定
+
 ## 阅读
 
 <!-- 课程：刘洪波雅思阅读 [https://www.bilibili.com/video/BV1c54y187SH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1c54y187SH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8) -->
 
-☀日常(1h) 剑雅真题 C14-C19 的阅读 [https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)
+☀日常(1.5h) 剑雅真题 C14-C19 的阅读 [https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)
 
 什么是平行阅读法? [知乎回答](https://www.zhihu.com/question/42065720/answer/232654969) 建议先了解一下，平行阅读法不一定有助于提多少分，但是在雅思的题型安排下一般会有助于提高做题速度
 
@@ -49,7 +51,7 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日2h-5h
 
 ☀日常(0.5h) 时政新闻,即使考完了也可以用来就饭吃 [https://space.bilibili.com/3537120656361663](https://space.bilibili.com/3537120656361663)（有时候看bbc或者联合早报，荤素搭配）
 
-☀日常(1h) 剑雅真题 C14-C19 的听力 [https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)
+☀日常(1.5h) 剑雅真题 C14-C19 的听力 [https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)
 
 听力词汇
 
