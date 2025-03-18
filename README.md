@@ -38,7 +38,7 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日2h-5h
 
 <!-- 课程：刘洪波雅思阅读 [https://www.bilibili.com/video/BV1c54y187SH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1c54y187SH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8) -->
 
-`☀日常(1.5h)` 剑雅真题 C14-C19 的阅读 [https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)
+`☀日常(1.5h)` 剑雅真题 C14-C19 的阅读 [engnovate](https://engnovate.com/ielts-tests/)
 
 `🤔一次性` 什么是平行阅读法? [知乎回答](https://www.zhihu.com/question/42065720/answer/232654969) 👈 建议先了解一下，平行阅读法不一定有助于提多少分，但是在雅思的题型安排下一般会有助于提高做题速度
 
@@ -46,13 +46,13 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日2h-5h
 
 ## 听力
 
- `🤔一次性` 课程：何琼雅思听力 [https://www.bilibili.com/video/BV1a2r8YEEnH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1a2r8YEEnH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8) 👈 课不算长，可以直接看笔记[https://www.cnblogs.com/cauwj/p/17026434.html](https://www.cnblogs.com/cauwj/p/17026434.html)
+ `🤔一次性` 课程：何琼雅思听力 [B站](https://www.bilibili.com/video/BV1a2r8YEEnH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8) 👈 课不算长，可以直接看笔记[https://www.cnblogs.com/cauwj/p/17026434.html](https://www.cnblogs.com/cauwj/p/17026434.html)
 
-`☀日常(0.5h)` 时政新闻,即使考完了也可以用来就饭吃 [https://space.bilibili.com/3537120656361663](https://space.bilibili.com/3537120656361663) 👈 有时候看bbc或者联合早报，荤素搭配
+`☀日常(0.5h)` 时政新闻,即使考完了也可以用来就饭吃 [B站](https://space.bilibili.com/3537120656361663) 👈 有时候看bbc或者联合早报，荤素搭配
 
-`☀日常(1.5h)` 剑雅真题 C14-C19 的听力 [https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)
+`☀日常(1.5h)` 剑雅真题 C14-C19 的听力 [engnovate](https://engnovate.com/ielts-tests/)
 
-地图题相关表达（也适用于小作文） [https://www.xiaohongshu.com/discovery/item/66ec0c64000000000c01a517](https://www.xiaohongshu.com/discovery/item/66ec0c64000000000c01a517)
+地图题相关表达（也适用于小作文） [小红书](https://www.xiaohongshu.com/discovery/item/66ec0c64000000000c01a517)
 
 
 听力词汇
@@ -61,11 +61,11 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日2h-5h
 
 - 350个剑雅听力基础答案词 [雅思听力350个剑桥雅思听力基础答案词.pdf](雅思听力350个剑桥雅思听力基础答案词.pdf)
 
-- 听力179热点词 [https://hefengxian.github.io/my-ielts/#/listening/keyword](https://hefengxian.github.io/my-ielts/#/listening/keyword)  👈 人声纯享版 [https://b23.tv/TKxnXZN](https://b23.tv/TKxnXZN)
+- 听力179热点词 [my-ielts](https://hefengxian.github.io/my-ielts/#/listening/keyword)  👈 人声纯享版 [B站](https://b23.tv/TKxnXZN)
 
 ## 写作
 
-课程：Simon写作 [https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=55](https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=55)
+课程：Simon写作 [B站](https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=55)
 
 Firstly，（10天结束课程，小作文2-3天，大作7-8天，可以压缩）看课程&材料，了解大小作文基本框架结构和写作要点；
 
@@ -75,11 +75,11 @@ Thirdly，（10天准备），结合话题/预测文档梳理发散角度，准�
 
 这里的PDF基本都有编辑权限，Edge或者Acrobat等可以直接做笔记
 
-剑雅真题 C14-C19 的写作 [https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/) 👈 engnovate达到作文/听力免费ai批改次数上限怎么办？（浏览器无痕窗口，engnovate只验证邮箱，你懂的）
+剑雅真题 C14-C19 的写作 [engnovate](https://engnovate.com/ielts-tests/) 👈 engnovate达到作文/听力免费ai批改次数上限怎么办？（浏览器无痕窗口，engnovate只验证邮箱，你懂的）
 
 <!-- 杜仕明写作课+口语900句 [https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2](https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2) -->
 
-作文批改 打分用[https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)，修改+解析用openai/gemini/kimi/deepseek/notion都可，prompt在最下面
+作文批改 打分用 [engnovate](https://engnovate.com/ielts-tests/)就可，修改+解析也可以用openai/gemini/kimi/deepseek/notion，prompt在最下面
 
 <!-- 雅思小作文：小作文史上最全解析——数据图表类 [https://zhuanlan.zhihu.com/p/444388256](https://zhuanlan.zhihu.com/p/444388256) -->
 
@@ -87,19 +87,19 @@ Thirdly，（10天准备），结合话题/预测文档梳理发散角度，准�
 
 雅思小作文：主要是流程图的句式 [雅思作文（小）流程图常用词.pdf](雅思作文（小）流程图常用词.pdf)
 
-雅思小作文：线状图/柱状图/饼状图/表格题/流程图/地图题模板 [https://zhuanlan.zhihu.com/p/248199735](https://zhuanlan.zhihu.com/p/248199735)
+雅思小作文：线状图/柱状图/饼状图/表格题/流程图/地图题模板 [知乎](https://zhuanlan.zhihu.com/p/248199735)
 
 雅思小作文：小作文详解+范文(对照着翻译，小作文6篇) [雅思作文（小）小作文详解+范文.pdf](雅思作文（小）小作文详解+范文.pdf)
 
 雅思大作文：四大题型模板+范文(对照着翻译，大作文4篇) [雅思作文（大）四大题型模板+范文.pdf](雅思作文（大）四大题型模板+范文.pdf)
 
-雅思大作文：大作文万能句式词汇 [https://zhuanlan.zhihu.com/p/43298173](https://zhuanlan.zhihu.com/p/43298173)
+雅思大作文：大作文万能句式词汇 [知乎](https://zhuanlan.zhihu.com/p/43298173)
 
 
 
 
 ## 口语
- `🤔一次性` 课程：雅思口语速成，雅思口语全流程教学 [https://b23.tv/5Fw96Ks](https://b23.tv/5Fw96Ks) 👈 不长，可以只看part1部分
+ `🤔一次性` 课程：雅思口语速成，雅思口语全流程教学 [B站](https://b23.tv/5Fw96Ks) 👈 不长，可以只看part1部分
 
 1 先从头到尾过一下当季整个题库。
 
@@ -111,11 +111,11 @@ Thirdly，（10天准备），结合话题/预测文档梳理发散角度，准�
 
 5 多练习，表达要自然，可以给自己录音，反复听自己说出来的几段完美答案，p2p3都不用背模板。
 
-`☀日常(0.5h)` 口语题库+回答素材【人声带读版】[https://www.bilibili.com/video/BV1hk6gYxEev?spm_id_from=333.788.videopod.episodes](https://www.bilibili.com/video/BV1hk6gYxEev?spm_id_from=333.788.videopod.episodes)
+`☀日常(0.5h)` 口语题库+回答素材【人声带读版】[B站](https://www.bilibili.com/video/BV1hk6gYxEev?spm_id_from=333.788.videopod.episodes)
 
 `☀日常(0.5h)` 雅思哥APP Part1+2+3 （每年的1、5、9三个月会替换部分Topic，所谓换题月，仅在口语部分我觉得有必要参考题库，其它部分题库过于庞大没必要关注）
 
-`🤔一次性` 条件句虚拟语气 [小红书条件句虚拟语气形式+例句](http://xhslink.com/a/iIQ5m4seCSZ7)
+`🤔一次性` 条件句虚拟语气 [小红书](http://xhslink.com/a/iIQ5m4seCSZ7)
 
 口语900句 [雅思口语实用900句.pdf](雅思口语实用900句.pdf)
 
