@@ -32,6 +32,7 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日2h-5h
 # ⏱日常流程&资料
 
 标注 `☀日常` 的不是天天都必须做，只是作为例行任务常做就ok，视自己实际情况而定
+标注 `🤔一次性` 的花几小时看一遍就可
 
 ## 阅读
 
@@ -39,7 +40,7 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日2h-5h
 
 `☀日常(1.5h)` 剑雅真题 C14-C19 的阅读 [https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)
 
-什么是平行阅读法? [知乎回答](https://www.zhihu.com/question/42065720/answer/232654969) 建议先了解一下，平行阅读法不一定有助于提多少分，但是在雅思的题型安排下一般会有助于提高做题速度
+`🤔一次性` 什么是平行阅读法? [知乎回答](https://www.zhihu.com/question/42065720/answer/232654969) 建议先了解一下，平行阅读法不一定有助于提多少分，但是在雅思的题型安排下一般会有助于提高做题速度
 
 阅读考点词真经538 [《剑桥雅思阅读考点词真经538》](雅思阅读刘洪波538考点词.pdf) 如果扫一眼文档底部的考点词词库总表，单词基本都认识的话，私以为就可以不用看了
 
@@ -47,11 +48,12 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日2h-5h
 
 课程：何琼雅思听力 [https://www.bilibili.com/video/BV1a2r8YEEnH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1a2r8YEEnH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8) 课不算长，可以直接看笔记[https://www.cnblogs.com/cauwj/p/17026434.html](https://www.cnblogs.com/cauwj/p/17026434.html)
 
-地图题相关表达（也适用于小作文） [https://www.xiaohongshu.com/discovery/item/66ec0c64000000000c01a517](https://www.xiaohongshu.com/discovery/item/66ec0c64000000000c01a517)
-
 `☀日常(0.5h)` 时政新闻,即使考完了也可以用来就饭吃 [https://space.bilibili.com/3537120656361663](https://space.bilibili.com/3537120656361663)（有时候看bbc或者联合早报，荤素搭配）
 
 `☀日常(1.5h)` 剑雅真题 C14-C19 的听力 [https://engnovate.com/ielts-tests/](https://engnovate.com/ielts-tests/)
+
+地图题相关表达（也适用于小作文） [https://www.xiaohongshu.com/discovery/item/66ec0c64000000000c01a517](https://www.xiaohongshu.com/discovery/item/66ec0c64000000000c01a517)
+
 
 听力词汇
 
@@ -97,7 +99,7 @@ Thirdly，（10天准备），结合话题/预测文档梳理发散角度，准�
 
 
 ## 口语
-课程：雅思口语速成，雅思口语全流程教学 [https://b23.tv/5Fw96Ks](https://b23.tv/5Fw96Ks) 不长，可以只看part1部分
+ `🤔一次性` 课程：雅思口语速成，雅思口语全流程教学 [https://b23.tv/5Fw96Ks](https://b23.tv/5Fw96Ks) 不长，可以只看part1部分
 
 1 先从头到尾过一下当季整个题库。
 
@@ -113,7 +115,7 @@ Thirdly，（10天准备），结合话题/预测文档梳理发散角度，准�
 
 `☀日常(0.5h)` 雅思哥APP Part1+2+3 （每年的1、5、9三个月会替换部分Topic，所谓换题月，仅在口语部分我觉得有必要参考题库，其它部分题库过于庞大没必要关注）
 
-条件句虚拟语气 [小红书条件句虚拟语气形式+例句](http://xhslink.com/a/iIQ5m4seCSZ7)
+`🤔一次性` 条件句虚拟语气 [小红书条件句虚拟语气形式+例句](http://xhslink.com/a/iIQ5m4seCSZ7)
 
 口语900句 [雅思口语实用900句.pdf](雅思口语实用900句.pdf)
 
