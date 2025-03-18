@@ -97,7 +97,7 @@ Thirdly，（10天准备），结合话题/预测文档梳理发散角度，准�
 
 
 ## 口语
-课程：雅思口语速成，雅思口语全流程教学 [https://b23.tv/5Fw96Ks](https://b23.tv/5Fw96Ks)
+课程：雅思口语速成，雅思口语全流程教学 [https://b23.tv/5Fw96Ks](https://b23.tv/5Fw96Ks) 不长，可以只看part1部分
 
 1 先从头到尾过一下当季整个题库。
 
@@ -110,7 +110,6 @@ Thirdly，（10天准备），结合话题/预测文档梳理发散角度，准�
 5 多练习，表达要自然，可以给自己录音，反复听自己说出来的几段完美答案，p2p3都不用背模板。
 
 ☀日常(0.5h) 口语题库+回答素材【人声带读版】[https://www.bilibili.com/video/BV1hk6gYxEev?spm_id_from=333.788.videopod.episodes](https://www.bilibili.com/video/BV1hk6gYxEev?spm_id_from=333.788.videopod.episodes)
-
 
 ☀日常(0.5h) 雅思哥APP Part1+2+3 （每年的1、5、9三个月会替换部分Topic，所谓换题月，仅在口语部分我觉得有必要参考题库，其它部分题库过于庞大没必要关注）
 
