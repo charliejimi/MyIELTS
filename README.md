@@ -121,6 +121,8 @@ Thirdly，（10天准备），结合话题/预测文档梳理发散角度，准�
 
 `🤔一次性` 条件句虚拟语气 [小红书](http://xhslink.com/a/iIQ5m4seCSZ7)
 
+`🤔一次性` part3糊弄大法 [b站](https://b23.tv/DhBq5fd)
+
 口语900句 [雅思口语实用900句.pdf](雅思口语实用900句.pdf)
 
 口语题库（需要自己找考试日期对应的题库哦） [雅思口语2025年1-4月雅思口语题库.pdf](雅思口语2025年1-4月雅思口语题库.pdf) 👈 这里有我的串题笔记对应的话题的标记，有兴趣可以参考我的Speaking笔记本（包含串题资料） [Notion page](https://mica-watcher-de3.notion.site/IELTS-Speaking-1b08aba68f0380369883dcb355ed5131?pvs=74)
