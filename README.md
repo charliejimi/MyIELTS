@@ -31,7 +31,7 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日1.5h-4h 总共约100h 其中周末
 
 [海外求学工科生的经验之谈](https://zhuanlan.zhihu.com/p/101041748)， 有关工科生备考雅思的经验和思考
 
-[机考/笔试考点报名预约链接(British Council)](https://ieltsregistration.britishcouncil.org )，.支持Master/VISA，中国大陆考点会跳转新页面，我选择A类（academic，一般用于学校申请），机考，考点：EIKEN Osaka IELTS Test Centre Dojima Avanza
+[机考/笔试考点报名预约链接(British Council)](https://ieltsregistration.britishcouncil.org )，支持Master/VISA，~1200CNY，中国大陆考点会跳转新页面，我选择A类（academic，一般用于学校申请），机考，考点：EIKEN Osaka IELTS Test Centre Dojima Avanza
 
 # ⏱日常流程&资料
 
