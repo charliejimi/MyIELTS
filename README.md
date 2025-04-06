@@ -22,7 +22,7 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日1.5h-4h 总共约100h 其中周末
 | 2025-03-17 |  7.0    |  7.5   |    6.5(6.5,6.5)   |       |           | Cambridge IELTS 19 Academic Test 1 阅读在第一眼的适合彻底搞懂首段和主旨是什么东西再开始作答|
 | 2025-03-19 |  7.0     |   8.0  |  6.5(6.5,6.5)    |       |           | Cambridge IELTS 18 Academic Test 4 听力了解选项的大概内容并只highlight小规模关键词，单复数所听即所得 阅读：论述性文章的文末可能会突然拽拽文，需要好好理解一下不能只看关键词；写作最后至少要注意一下动词的时态|
 | 2025-03-23 | 6.5  |  8.0   |  6.5(7.5,6.0)   |       |           | Cambridge IELTS 18 Academic Test 3 听力关键词识别例子：become more interesting可以联想到boring before |
-| 2025-03-25 |   |  8.5 |     |       |           | Cambridge IELTS 18 Academic Test 2 |
+| 2025-03-25 | 7.0  |  8.5 |     |       |           | Cambridge IELTS 18 Academic Test 2 |
 | 2025-03-27 |   |   |     |       |           | Cambridge IELTS 18 Academic Test 1 |
 | 2025-03-31 |   |   |     |       |           | Cambridge IELTS 17 Academic Test 4 |
 | **2025-04-25**| **XX**       | **XX**     |  **XX**    | **XX**      | **XX**          | Real Test |
