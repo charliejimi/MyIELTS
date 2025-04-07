@@ -25,7 +25,7 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日1.5h-4h 总共约100h 其中周末
 | 2025-03-25 | 7.0  |  8.5 |   6.5(6.5,6.5)   |       |           | Cambridge IELTS 18 Academic Test 2 目前生词是瓶颈了|
 | 2025-03-27 |   |   |     |       |           | Cambridge IELTS 18 Academic Test 1 |
 | 2025-03-31 |   |   |     |       |           | Cambridge IELTS 17 Academic Test 4 |
-| **2025-04-25**| **XX**       | **XX**     |  **XX**    | **XX**      | **XX**          | Real Test |
+| **2025-04-26**| **XX**       | **XX**     |  **XX**    | **XX**      | **XX**          | Real Test |
 
 # 💡IELTS备考须知
 
