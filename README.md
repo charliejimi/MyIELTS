@@ -23,7 +23,7 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日1.5h-4h 总共约100h 其中周末
 | 2025-03-19 |  7.0     |   8.0  |  6.5(6.5,6.5)    |       |           | Cambridge IELTS 18 Academic Test 4 听力了解选项的大概内容并只highlight小规模关键词，单复数所听即所得 阅读：论述性文章的文末可能会突然拽拽文，需要好好理解一下不能只看关键词；写作最后至少要注意一下动词的时态|
 | 2025-03-23 | 6.5  |  8.0   |  6.5(7.5,6.0)   |       |           | Cambridge IELTS 18 Academic Test 3 听力关键词识别例子：become more interesting可以联想到boring before |
 | 2025-04-07 | 7.0  |  8.5 |   6.5(6.5,6.5)   |       |           | Cambridge IELTS 18 Academic Test 2 目前生词是瓶颈了|
-| 2025-04-09 |   |   |     |       |           | Cambridge IELTS 18 Academic Test 1 |
+| 2025-04-09 |   |   |     |    6.5(6.5,6.5)    |           | Cambridge IELTS 18 Academic Test 1 |
 | 2025-03-31 |   |   |     |       |           | Cambridge IELTS 17 Academic Test 4 |
 | **2025-04-26**| **XX**       | **XX**     |  **XX**    | **XX**      | **XX**          | Real Test |
 
@@ -79,7 +79,7 @@ Thirdly，（10天准备），结合话题/预测文档梳理发散角度，准�
 
 这里的PDF基本都有编辑权限，Edge或者Acrobat等可以直接做笔记
 
-剑雅真题 C14-C19 的写作 [engnovate](https://engnovate.com/ielts-tests/) 👈 engnovate达到作文/听力免费ai批改次数上限怎么办？（浏览器无痕窗口，engnovate只验证邮箱，你懂的）
+剑雅真题 C14-C19 的写作 [engnovate](https://engnovate.com/ielts-tests/) 👈 engnovate达到作文/听力免费ai批改次数上限怎么办？浏览器无痕窗口打开engnovate，每次的验证邮件用临时邮箱接收
 
 <!-- 杜仕明写作课+口语900句 [https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2](https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2) -->
 
