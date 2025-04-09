@@ -124,9 +124,9 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日1.5h-4h 总共约100h 其中周末
 
 `🤔一次性` part3糊弄大法 [b站](https://b23.tv/DhBq5fd)
 
-口语900句 [雅思口语实用900句.pdf](雅思口语实用900句.pdf)
+`🧐看几遍` 口语900句 [雅思口语实用900句.pdf](雅思口语实用900句.pdf)
 
-口语题库（需要自己找考试日期对应的题库哦） [雅思口语2025年1-4月雅思口语题库.pdf](雅思口语2025年1-4月雅思口语题库.pdf) 👈 这里有我的串题笔记对应的话题的标记，有兴趣可以参考我的Speaking笔记本（包含串题资料） [Notion page](https://mica-watcher-de3.notion.site/IELTS-Speaking-1b08aba68f0380369883dcb355ed5131?pvs=74)
+`🧐看几遍` 口语题库（需要自己找考试日期对应的题库哦） [雅思口语2025年1-4月雅思口语题库.pdf](雅思口语2025年1-4月雅思口语题库.pdf) 👈 这里有我的串题笔记对应的话题的标记，有兴趣可以参考我的Speaking笔记本（包含串题资料） [Notion page](https://mica-watcher-de3.notion.site/IELTS-Speaking-1b08aba68f0380369883dcb355ed5131?pvs=74)
 
 # 📕笔记
 
