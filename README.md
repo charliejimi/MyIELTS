@@ -152,6 +152,8 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日1.5h-4h 总共约100h 其中周末
 
 **听力、阅读：**
 
+哑巴选手重点拿分领域
+
 | Number of correct Listening answers | IELTS band score | Number of correct Reading answers (A) | IELTS band score | Number of correct Reading answers (G) | IELTS band score |
 |---|---|---|---|---|---|
 | 39-40 | 9.0 | 39-40 | 9.0 | 40 | 9.0 |
