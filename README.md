@@ -22,31 +22,39 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日1.5h-4h 总共约100h 其中周末
 | 2025-03-17 |  7.0    |  7.5   |    6.5(6.5,6.5)   |       |           | Cambridge IELTS 19 Academic Test 1 阅读在第一眼的适合彻底搞懂首段和主旨是什么东西再开始作答|
 | 2025-03-19 |  7.0     |   8.0  |  6.5(6.5,6.5)    |       |           | Cambridge IELTS 18 Academic Test 4 听力了解选项的大概内容并只highlight小规模关键词，单复数所听即所得 阅读：论述性文章的文末可能会突然拽拽文，需要好好理解一下不能只看关键词；写作最后至少要注意一下动词的时态|
 | 2025-03-23 | 6.5  |  8.0   |  6.5(7.5,6.0)   |       |           | Cambridge IELTS 18 Academic Test 3 听力关键词识别例子：become more interesting可以联想到boring before |
-| 2025-04-07 | 7.0  |  8.5 |   6.5(6.5,6.5)   |       |           | Cambridge IELTS 18 Academic Test 2 目前生词是瓶颈了|
-| 2025-04-09 |  5.5 |   |   6.5(6.5,6.5)   |       |           | Cambridge IELTS 18 Academic Test 1 听力要好好掐表，精简highlight|
-| 2025-03-31 |   |   |     |       |           | Cambridge IELTS 17 Academic Test 4 |
+| 2025-04-07 | 7.0  |  8.5 |   6.5(6.5,6.5)   |       |           | Cambridge IELTS 18 Academic Test 2 目前生词是瓶颈了《不过这玩意现准备是来不及了，做好听力直接跳题的准备|
+| 2025-04-09 |  5.5 |  7.5 |   6.5(6.5,6.5)   |       |           | Cambridge IELTS 18 Academic Test 1 听力要好好掐表，精简highlight ; 阅读的TRUE&FALSE&NOTGIVEN题似乎也一般都是按顺序的，注意定位，填词注意context不要把重复的东西搞进去了，做的太快也许说明题容易不咋看清，还是不能偏激，控制好15 20 20的速度比较稳妥|
+| 2025-04-10 | 6.5   |  8.0  |   5.0(5.5,5.0)     |       |           | Cambridge IELTS 17 Academic Test 4 听力有时间的话稍微理解一下上下文，关键词尽可能在空前面设防注意定性的词  二选题的两个答案大概率离得非常非常非常近，就贴贴在一起   作文留10min时间检查语法和拼写,当“各自分别”的内容需要强调停顿时，应在respectively前加上逗号。 例如，“1&3 respectively属于B4&A4亚群。 ”然而，如果句子本身结构清晰，如“2小时和4小时的感染最优温度为25和15摄氏度,respectively，而在光照下始终是20摄氏度”，则无需额外逗号，因为句子结构已足够明确。 Respectively通常位于句尾|
+| 2025-04-10 |    |   |     |       |           | Cambridge IELTS 17 Academic Test 3|
+| 2025-04-10 |    |   |     |       |           | Cambridge IELTS 17 Academic Test 2|
+| 2025-04-10 |    |   |     |       |           | Cambridge IELTS 17 Academic Test 1|
+| 2025-04-10 |    |   |     |       |           | Cambridge IELTS 16 Academic Test 4|
+| 2025-04-10 |    |   |     |       |           | Cambridge IELTS 16 Academic Test 3|
+| 2025-04-10 |    |   |     |       |           | Cambridge IELTS 16 Academic Test 2|
+| 2025-04-10 |    |   |     |       |           | Cambridge IELTS 16 Academic Test 1|
 | **2025-04-26**| **XX**       | **XX**     |  **XX**    | **XX**      | **XX**          | Real Test |
 
 # 💡IELTS备考须知
 
 [海外求学工科生的经验之谈](https://zhuanlan.zhihu.com/p/101041748)， 有关工科生备考雅思的经验和思考
 
-[机考/笔试考点报名预约链接(British Council)](https://ieltsregistration.britishcouncil.org )，支持Master/VISA，~1200CNY，中国大陆考点会跳转新页面，我选择A类（academic，一般用于学校申请），机考，考点：EIKEN Osaka IELTS Test Centre Dojima Avanza
+[机考/笔试考点报名预约链接(British Council)](https://ieltsregistration.britishcouncil.org )，BC支持Master/VISA支付，~1200CNY，IDP也一样，基本没区别；如果是中国大陆考点会跳转到教育部教育考试院，操作就和四六级差不多，我选择A类（academic，一般用于学校申请），机考，考点：EIKEN Osaka IELTS Test Centre Dojima Avanza
 
 # ⏱日常流程&资料
 
-- 标注 `☀日常` 的不是天天都必须做，只是作为例行任务常做就ok，视自己实际情况而定
+- 标注 `☀日常(XXh)` 的不是天天都必须做，只是作为例行任务常做就ok，视自己实际情况而定，XXh表示大概会占用多少时间
 - 标注 `🤔一次性` 的花几小时看一遍就可
+- 标注 `🧐看几遍` 的多看几次就可
 
 ## 阅读
 
 <!-- 课程：刘洪波雅思阅读 [https://www.bilibili.com/video/BV1c54y187SH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8](https://www.bilibili.com/video/BV1c54y187SH/?spm_id_from=333.337.search-card.all.click&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8) -->
 
-`☀日常(1.5h)` 剑雅真题 C14-C19 的阅读 [engnovate](https://engnovate.com/ielts-tests/)
+`☀日常(1.5h)` 剑雅真题 C16-C19 的阅读 [engnovate](https://engnovate.com/ielts-tests/)
 
-`🤔一次性` 什么是平行阅读法? [知乎回答](https://www.zhihu.com/question/42065720/answer/232654969) 👈 建议先了解一下，平行阅读法不一定有助于提多少分，但是在雅思的题型安排下一般会有助于提高做题速度
+`🤔一次性` 什么是平行阅读法? [知乎回答](https://www.zhihu.com/question/42065720/answer/232654969) 👈 非常简单，建议先了解一下，平行阅读法不一定有助于提多少分，但是在雅思的题型安排下一般会有助于提高做题速度
 
-阅读考点词真经538 [《剑桥雅思阅读考点词真经538》](雅思阅读刘洪波538考点词.pdf) 👈 如果扫一眼文档底部的考点词词库总表，单词基本都认识的话，私以为就可以不用看了
+`🧐看几遍` 阅读考点词真经538 [《剑桥雅思阅读考点词真经538》](雅思阅读刘洪波538考点词.pdf) 👈 如果扫一眼文档底部的考点词词库总表，单词做到基本认识（80%）就不要看了
 
 ## 听力
 
@@ -54,14 +62,14 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日1.5h-4h 总共约100h 其中周末
 
 `☀日常(0.5h)` 时政新闻,即使考完了也可以用来就饭吃 [B站](https://space.bilibili.com/3537120656361663) 👈 有时候看bbc或者联合早报，荤素搭配
 
-`☀日常(1.5h)` 剑雅真题 C14-C19 的听力 [engnovate](https://engnovate.com/ielts-tests/)
+`☀日常(1.5h)` 剑雅真题 C16-C19 的听力 [engnovate](https://engnovate.com/ielts-tests/)
 
-地图题相关表达（也适用于小作文） [小红书](https://www.xiaohongshu.com/discovery/item/66ec0c64000000000c01a517)
+`🧐看几遍` 地图题相关表达（也适用于小作文） [小红书](https://www.xiaohongshu.com/discovery/item/66ec0c64000000000c01a517)
 
 
-听力词汇
+`🧐看几遍` 听力词汇
 
-- 雅思听力高频词汇 [雅思听力高频词汇.pdf](雅思听力高频词汇.pdf) 👈 如果三个词表只想看一个的话看这个（最多且最复杂的）就可以了
+- 雅思听力高频词汇 [雅思听力高频词汇.pdf](雅思听力高频词汇.pdf) 👈 如果三个词表只想看一个的话看这个（最多且最复杂的）就可以了 
 
 - 350个剑雅听力基础答案词 [雅思听力350个剑桥雅思听力基础答案词.pdf](雅思听力350个剑桥雅思听力基础答案词.pdf)
 
@@ -69,17 +77,17 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日1.5h-4h 总共约100h 其中周末
 
 ## 写作
 
-课程：Simon写作 [B站](https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=55)
+ `🤔一次性` 课程：Simon写作 [B站](https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=55)
 
-Firstly，（10天结束课程，小作文2-3天，大作7-8天，可以压缩）看课程&材料，了解大小作文基本框架结构和写作要点；
+`☀日常(1.5h)` Firstly，（10天结束课程，小作文2-3天，大作7-8天，可以压缩）看课程&材料，了解大小作文基本框架结构和写作要点；
 
-Secondly，（10天结束，大小作文各5篇左右，这一步可以压缩）把范文翻译成中文，对照中文自己翻译成英语，然后对比错词行文的差距，根据材料积累朴素好用的公式句和连接词，不要太多，有6个左右能够训练到使用自如即可；
+`☀日常(1.5h)` Secondly，（10天结束，大小作文各5篇左右，这一步可以压缩）把范文翻译成中文，对照中文自己翻译成英语，然后对比错词行文的差距，根据材料积累朴素好用的公式句和连接词，不要太多，有6个左右能够训练到使用自如即可；
 
-Thirdly，（10天准备），结合话题/预测文档梳理发散角度，准备4个角度，6个观点延伸方向，根据剑雅真题写，每天一大一小，可以拿着最下面的prompt找llm批改也可以参考engnovate的修改建议。
+`☀日常(1.5h)` Thirdly，（10天准备），结合话题/预测文档梳理发散角度，准备4个角度，6个观点延伸方向，根据剑雅真题写，每天一大一小，可以拿着最下面的prompt找llm批改也可以参考engnovate的修改建议。
 
 这里的PDF基本都有编辑权限，Edge或者Acrobat等可以直接做笔记
 
-剑雅真题 C14-C19 的写作 [engnovate](https://engnovate.com/ielts-tests/) 👈 engnovate达到作文/听力免费ai批改次数上限怎么办？浏览器无痕窗口打开engnovate，每次的验证邮件用临时邮箱接收
+剑雅真题 C16-C19 的写作 [engnovate](https://engnovate.com/ielts-tests/) 👈 engnovate达到作文/听力免费ai批改次数上限怎么办？浏览器无痕窗口打开engnovate，每次的验证邮件用临时邮箱接收
 
 <!-- 杜仕明写作课+口语900句 [https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2](https://www.bilibili.com/video/BV1uH4y1c7mz?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=2) -->
 
@@ -109,7 +117,7 @@ Thirdly，（10天准备），结合话题/预测文档梳理发散角度，准�
 
 2 从头到尾过一下当季整个题库，读的时候，你脑海中就会想到一些经历和答案，故事线就有了雏形，把你觉得可以归并的问题放在一起结合这些问题调整故事需要包含的内容
 
-3 思考并将故事线合理化 (想不出来怎么串也可以把经历给ai帮我们串，但是经历要是我们自己的，prompt在最后，我感觉市面上的雅思AI口语平台似乎也只是Prompt Engineering) 
+3 思考并将故事线合理化 (想不出来怎么串也可以把经历给ai帮我们串，但是经历要是我们自己的，prompt在最后，我感觉市面上的雅思AI口语平台似乎也只是Prompt Engineering，考前两星期和顺手的LLM聊天就好了) 
 
 4 再根据Part2每个题目的侧重点对素材稍微改动，紧扣题目。经历的不详细/不合适之处可以让GPT/notion继续改进
 
@@ -123,15 +131,13 @@ Thirdly，（10天准备），结合话题/预测文档梳理发散角度，准�
 
 `🤔一次性` part3糊弄大法 [b站](https://b23.tv/DhBq5fd)
 
-口语900句 [雅思口语实用900句.pdf](雅思口语实用900句.pdf)
+`🧐看几遍` 口语900句 [雅思口语实用900句.pdf](雅思口语实用900句.pdf)
 
-口语题库（需要自己找考试日期对应的题库哦） [雅思口语2025年1-4月雅思口语题库.pdf](雅思口语2025年1-4月雅思口语题库.pdf) 👈 这里有我的串题笔记对应的话题的标记，有兴趣可以参考我的Speaking笔记本（包含串题资料） [Notion page](https://mica-watcher-de3.notion.site/IELTS-Speaking-1b08aba68f0380369883dcb355ed5131?pvs=74)
+`🧐看几遍` 口语题库（需要自己找考试日期对应的题库哦） [雅思口语2025年1-4月雅思口语题库.pdf](雅思口语2025年1-4月雅思口语题库.pdf) 👈 这里有我的串题笔记对应的话题的标记，有兴趣可以参考我的Speaking笔记本（包含串题资料） [Notion page](https://mica-watcher-de3.notion.site/IELTS-Speaking-1b08aba68f0380369883dcb355ed5131?pvs=74)
 
 # 📕笔记
 
 ## Reading
-
-
 
 ## Listening
 
@@ -141,7 +147,16 @@ Thirdly，（10天准备），结合话题/预测文档梳理发散角度，准�
 
 [Notion page](https://mica-watcher-de3.notion.site/IELTS-Speaking-1b08aba68f0380369883dcb355ed5131?pvs=74)
 
+
 # Scoring（A:Academic or G:General）
+
+
+前情提要：雅思成绩是0.25进制的，如果平均成绩的小数位是大于等于0.25且小于0.75，那么就入到0.5分档，如果小数位是大于等于0.75分，那么则入到下一个整分档  例如：(6.0 + 7.0 + 6.0 + 7.0) / 4 = 6.5 而 (6.0 + 6.5 + 6.0 + 6.5) / 4 = 6.25，进位到 6.5
+
+**听力、阅读：**
+
+哑巴选手重点拿分领域
+
 | Number of correct Listening answers | IELTS band score | Number of correct Reading answers (A) | IELTS band score | Number of correct Reading answers (G) | IELTS band score |
 |---|---|---|---|---|---|
 | 39-40 | 9.0 | 39-40 | 9.0 | 40 | 9.0 |
@@ -162,19 +177,24 @@ Thirdly，（10天准备），结合话题/预测文档梳理发散角度，准�
 | 1 | 1.0 | 1 | 1.0 | 1 | 1.0 |
 | absent | 0.0 | absent | 0.0 | absent | 0.0 |
 
-雅思写作有以下4个评分维度([Ref](https://ielts-academic.com/2016/01/07/ielts-writing-scores/))：
+**写作：**
+
+有以下4个评分维度([Ref](https://ielts-academic.com/2016/01/07/ielts-writing-scores/))：
 
 Task response：
 主要考察内容是否扣题、观点是否明确，有无足够的论点去支撑说明。
+这个一般没问题
 
 Coherence and cohesion:
 三个考察的维度：分段是否合理、内容有无前后矛盾、衔接词使用是否恰当。
+正常写就OKK
 
 Lexical resource：
 考察你的表达是否有错误。
+这个和下面的grammar一起检查，这个相对稍微好搞一些，必须（!important）预留10min重新看一遍捋顺，不要有错词，检查单复数，时态
 
 Grammatical range and accuracy：
-考察句法的多样性以及是否有语法错误。
+考察句法的多样性以及是否有语法错误。 多样性还是算了吧，说顺就不错了，放弃
 
 雅思写作的总分数是根据大小作文的比例来计算的，小作文Task 1占了总分的1/3，大作文Task 2占总分的2/3，最后取大小作文分数的平均值作为总分数。
 
@@ -184,9 +204,20 @@ Grammatical range and accuracy：
 
 比如大作文是6.5，小作文是6.0的话，最后得分是6.5 * 0.66+6.0 * 0.33=6.27，最终写作总分是6.5分。也就是说二者的权重比是1:2。两者都会按照9分制的评分表进行打分，再按照比例计算，最后得出成绩，因此需要尽可能让大作文实现6.5。
 
+**口语：**
 
+有以下4个评分维度
 
-雅思成绩是0.25进制的，如果平均成绩的小数位是大于等于0.25且小于0.75，那么就入到0.5分档，如果小数位是大于等于0.75分，那么则入到下一个整分档  例如：(6.0 + 7.0 + 6.0 + 7.0) / 4 = 6.5 而 (6.0 + 6.5 + 6.0 + 6.5) / 4 = 6.25，进位到 6.5
+When you go into the speaking test, the examiner grades you in four areas:
+
+FC--Fluency & coherence 流利度与连贯性 这部分需要自己录音多练习
+
+GA--Grammar Range & Accuracy 语法准确性与精确性 这个不好搞，遂放弃，保证不离谱就好
+
+LR--Lexical Resource 词汇的丰富度 短时间基本不可能，争取简单表达不要出大语法错误就够啦，也放弃
+
+PR--Pronunciation 语音语调的流畅与清晰度 有必要多练习，必须让人听清在说什么，语调要悦耳
+
 
 
 
