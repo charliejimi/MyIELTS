@@ -25,7 +25,7 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日1.5h-4h 总共约100h 其中周末
 | 2025-04-07 | 7.0  |  8.5 |   6.5(6.5,6.5)   |       |           | Cambridge IELTS 18 Academic Test 2 目前生词是瓶颈了《不过这玩意现准备是来不及了，做好听力直接跳题的准备|
 | 2025-04-09 |  5.5 |  7.5 |   6.5(6.5,6.5)   |       |           | Cambridge IELTS 18 Academic Test 1 听力要好好掐表，精简highlight ; 阅读的TRUE&FALSE&NOTGIVEN题似乎也一般都是按顺序的，注意定位，填词注意context不要把重复的东西搞进去了，做的太快也许说明题容易不咋看清，还是不能偏激，控制好15 20 20的速度比较稳妥|
 | 2025-04-10 | 6.5   |  8.0  |   5.0(5.5,5.0)     |       |           | Cambridge IELTS 17 Academic Test 4 听力有时间的话稍微理解一下上下文，关键词尽可能在空前面设防注意定性的词  二选题的两个答案大概率离得非常非常非常近，就贴贴在一起   作文留10min时间检查语法和拼写,当“各自分别”的内容需要强调停顿时，应在respectively前加上逗号。 例如，“1&3 respectively属于B4&A4亚群。 ”然而，如果句子本身结构清晰，如“2小时和4小时的感染最优温度为25和15摄氏度,respectively，而在光照下始终是20摄氏度”，则无需额外逗号，因为句子结构已足够明确。 Respectively通常位于句尾|
-| 2025-04-10 |    |   |     |       |           | Cambridge IELTS 17 Academic Test 3|
+| 2025-04-13 |    |   |     |       |           | Cambridge IELTS 17 Academic Test 3|
 | 2025-04-10 |    |   |     |       |           | Cambridge IELTS 17 Academic Test 2|
 | 2025-04-10 |    |   |     |       |           | Cambridge IELTS 17 Academic Test 1|
 | 2025-04-10 |    |   |     |       |           | Cambridge IELTS 16 Academic Test 4|
