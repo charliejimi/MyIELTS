@@ -33,7 +33,6 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日1.5h-4h 总共约100h 其中周末
 | 2025-04-18 |    |   |     |       |           | Cambridge IELTS 16 Academic Test 2|
 | 2025-04-19 |    |   |     |       |           | Cambridge IELTS 16 Academic Test 1|
 | 2025-04-20 |    |   |     |       |           | Cambridge IELTS 15 Academic Test 4|
-| 2025-04-21 |    |   |     |       |           | Cambridge IELTS 15 Academic Test 3|
 | **2025-04-26**| **XX**       | **XX**     |  **XX**    | **XX**      | **XX**          | Real Test |
 
 # 💡IELTS备考须知
