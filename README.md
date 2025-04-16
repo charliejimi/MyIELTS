@@ -28,7 +28,7 @@ IELTS投入时间：3.3-4.20(1.5个月) 每日0.5h-4h 总共约100h 其中周末
 | 2025-04-13 |   6.5   |   |   6.0(6.5,6.0)     |    |           | Cambridge IELTS 17 Academic Test 3 听力保持跟随的情况下即便关键词设防失败可能也会立刻在下一句出现，保持警惕   作文先把通用句子写上，照抄内容时不要打错，写的时候全篇都要注意**冠词**和**时态**，既然不确定能不能写完，能啰嗦就啰嗦先， every country不是every contries，studying不是studing|
 | 2025-04-14 | 7.5   |   |     |       |           | Cambridge IELTS 17 Academic Test 2 听力答案格式案例：5.30 pm 日期可以是 25 November 想要写2020年11月25日，可写成：25.11.2020 数字中间要加, 321,000 大小写不敏感|
 | 2025-04-15 | 7.0   |  7.5 |    6.5(7.0,6.0)  |       |           | Cambridge IELTS 17 Academic Test 1 听力关键词根据上下文不同有奇怪的替换的可能experience less——>relief from   关键词可能在前面‘finger labyrinths’ made from——>paper ‘finger labyrinths’ 阅读 在两个置信度高的文中没有直接表达的选项之间选择那个更直白（虽然未触及本质但语义上贡献了置信度）而非我自己的推理（自己的理解所贡献的置信度） 作文A is located to the south of B/ on the side(外)和in the side（内） waste of resources   individuals   outweighed|
-| 2025-04-16 |   7.0   |   |    7.0(7.5,7.0)  |       |           | Cambridge IELTS 16 Academic Test 4 听力注意日期可能是 May 1st May 25th November|
+| 2025-04-16 |   7.0   |  7.5  |    7.0(7.5,7.0)  |       |           | Cambridge IELTS 16 Academic Test 4 听力注意日期可能是 May 1st May 25th November|
 | 2025-04-17 |    |   |     |       |           | Cambridge IELTS 16 Academic Test 3|
 | 2025-04-18 |    |   |     |       |           | Cambridge IELTS 16 Academic Test 2|
 | 2025-04-19 |    |   |     |       |           | Cambridge IELTS 16 Academic Test 1|
