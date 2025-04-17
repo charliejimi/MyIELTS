@@ -40,7 +40,7 @@
 
 [海外求学工科生的经验之谈](https://zhuanlan.zhihu.com/p/101041748)， 有关工科生备考雅思的经验和思考
 
-[机考/笔试考点报名预约链接(British Council)](https://ieltsregistration.britishcouncil.org )，BC支持Master/VISA，~1200CNY，IDP也一样，基本没区别；如果是中国大陆考点会跳转到教育部教育考试院，操作就和四六级差不多，我选择A类（academic，一般用于学校申请），机考，考点：EIKEN Osaka IELTS Test Centre Dojima Avanza
+[机考/笔试考点报名预约链接(British Council)](https://ieltsregistration.britishcouncil.org )，BC支持Master/VISA，~1200CNY，IDP也一样，基本没区别；如果是中国大陆考点会跳转到教育部教育考试院，操作就和四六级差不多，我选择A类（academic，一般用于学校申请），我写字不好看且手写有点生疏因而选机考，考点：EIKEN Osaka IELTS Test Centre Dojima Avanza ，09:00 - 11:45机试，15:00 - 15:20面试
 
 # ⏱日常流程&资料
 
