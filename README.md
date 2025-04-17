@@ -140,7 +140,7 @@ p2p3都不用背模板，但是可以搞来题库看看。
 
 `🧐看几遍` 口语题库（需要自己找考试日期对应的题库哦） [雅思口语2025年1-4月雅思口语题库.pdf](雅思口语2025年1-4月雅思口语题库.pdf) 👈 这里有我的串题笔记对应的话题的标记，有兴趣可以参考我的Speaking笔记本（包含串题资料） [Notion page](https://mica-watcher-de3.notion.site/IELTS-Speaking-1b08aba68f0380369883dcb355ed5131?pvs=74)
 
-# 📕笔记
+# 📕笔记汇总
 
 ## Reading
 
