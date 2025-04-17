@@ -84,7 +84,7 @@
 
 - Thirdly，（10天准备），结合话题/预测文档梳理发散角度，准备4个角度，6个观点延伸方向，根据剑雅真题写，每天一大一小，可以拿着最下面的prompt找llm批改也可以参考engnovate的修改建议。
 
- `🤔一次性` 课程：Simon写作 [B站](https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=55)
+ `🤔一次性` 课程：Simon写作 [B站](https://www.bilibili.com/video/BV1MXtFe1EdN?spm_id_from=333.788.videopod.episodes&vd_source=87f9c1a4ff95c5e857ee0258a9ab30a8&p=55) 👈 时间够的话可以过一下
 
 `☀日常(1.5h)` 剑雅真题 C16-C19 的写作 [engnovate](https://engnovate.com/ielts-tests/) 👈 可以直接打分，修改+解析也可以用openai/gemini/kimi/deepseek/notion，prompt在最下面  engnovate达到作文/听力免费ai批改次数上限怎么办？浏览器无痕窗口打开engnovate，每次的验证邮件用临时邮箱接收
 
