@@ -64,7 +64,7 @@
 
 `☀日常(0.5h)` 时政新闻,即使考完了也可以用来就饭吃 [B站](https://space.bilibili.com/3537120656361663) 👈 有时候看bbc或者联合早报，荤素搭配
 
-`☀日常(1.5h)` 剑雅真题 C16-C19 的听力 [engnovate](https://engnovate.com/ielts-tests/)
+`☀日常(1.5h)` 剑雅真题 C16-C19 的听力 [engnovate](https://engnovate.com/ielts-tests/) 👈 注意自己掐表
 
 `🧐看几遍` 地图题相关表达（也适用于小作文） [小红书](https://www.xiaohongshu.com/discovery/item/66ec0c64000000000c01a517)
 
@@ -72,7 +72,7 @@
 
 - 雅思听力高频词汇 [雅思听力高频词汇.pdf](雅思听力高频词汇.pdf) 👈 如果三个词表只想看一个的话看这个（最多且最复杂的）就可以了 
 
-- 350个剑雅听力基础答案词 [雅思听力350个剑桥雅思听力基础答案词.pdf](雅思听力350个剑桥雅思听力基础答案词.pdf)
+- 350个剑雅听力基础答案词 [雅思听力350个剑桥雅思听力基础答案词.pdf](雅思听力350个剑桥雅思听力基础答案词.pdf) 👈 可以扫一遍就行，很难完全覆盖
 
 - 听力179热点词 [my-ielts](https://hefengxian.github.io/my-ielts/#/listening/keyword)  👈 人声纯享版 [B站](https://b23.tv/TKxnXZN)
 
