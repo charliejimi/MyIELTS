@@ -31,7 +31,7 @@
 | 2025-04-15 | 7.0   |  7.5 |    6.5(7.0,6.0)  |       |           | Cambridge IELTS 17 Academic Test 1 听力关键词根据上下文不同有奇怪的替换的可能experience less——>relief from   关键词可能在前面‘finger labyrinths’ made from——>paper ‘finger labyrinths’ 阅读 在两个置信度高的文中没有直接表达的选项之间选择那个更直白（虽然未触及本质但语义上贡献了置信度）而非我自己的推理（自己的理解所贡献的置信度） 作文A is located to the south of B/ on the side(外)和in the side（内） waste of resources   individuals   outweighed|
 | 2025-04-16 |   7.0   |  7.5  |    7.0(7.5,7.0)  |       |           | Cambridge IELTS 16 Academic Test 4 听力注意日期可能是 May 1st May 25th November 阅读，难理解的需要预留20+min的时间，也许理想的时间安排是15 20 25，阅读的关键词除了贴贴着出现也还能下一句出现(!attention)|
 | 2025-04-17 | 6.5   |   |   7.0(7.5,7.0)   |       |           | Cambridge IELTS 16 Academic Test 3 作文coherence包括标点安排|
-| 2025-04-19 |    |   |     |       |           | Cambridge IELTS 16 Academic Test 2|
+| 2025-04-19 |  7.0   |   |     |       |           | Cambridge IELTS 16 Academic Test 2|
 | 2025-04-20 |    |   |     |       |           | Cambridge IELTS 16 Academic Test 1|
 | 2025-04-21 |    |   |     |       |           | Cambridge IELTS 15 Academic Test 4|
 | **2025-04-26**| **XX**       | **XX**     |  **XX**    | **XX**      | **XX**          | Real Test |
