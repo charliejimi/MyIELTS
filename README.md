@@ -155,7 +155,7 @@ PART2一分钟草稿指南： 先在草稿纸上画下一横一竖，将其分�
 
 注意不要尾音上翘（据说这是中国考生特色？不知道为啥）
 
-[Notion page](https://mica-watcher-de3.notion.site/IELTS-Speaking-1b08aba68f0380369883dcb355ed5131?pvs=74)
+[Notion page](https://mica-watcher-de3.notion.site/IELTS-Speaking-1b08aba68f0380369883dcb355ed5131?pvs=74) [PDF版本](雅思口语P12串题笔记NOTION-IELTS_Speaking_Notes.pdf)
 
 
 # Scoring（A:Academic or G:General）
