@@ -178,7 +178,7 @@ p2p3都不用背模板，但是可以搞来题库看看。
 
 1. **语法与词汇**：  
    - 背句式模板，替换词提升Lexical resource。  
-   - 重点检查：动词时态（人称）、冠词（a/the）、单复数（every country）、拼写（studying）。  
+   - 重点检查：动词时态（人称）、冠词（a/the）、单复数（can do, every country）、拼写（studying）。  
 2. **结构技巧**：  
    - 先写通用句，照抄题干时勿打错。  
    - "respectively"用法：强调停顿加逗号，否则句尾直接写。  
